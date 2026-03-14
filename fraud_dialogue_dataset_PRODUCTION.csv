@@ -1,0 +1,1816 @@
+Dialogue_ID,Speaker,Text,Hedge_Count,Urgency_Count,Sentiment,Label
+D001,Agent,Verify details?,0,0,0.0,0
+D001,Client,check balance please.,0,0,0.0,0
+D001,Agent,Which account number?,0,0,0.0,0
+D001,Agent,Verify details?,0,0,0.0,0
+D001,Agent,Security check required.,0,0,0.0,0
+D001,Client,check balance please.,0,0,0.0,0
+D001,Agent,Which account number?,0,0,0.0,0
+D001,Client,statement please please.,0,0,0.33,0
+D002,Client,statement please please.,0,0,0.33,0
+D002,Client,update address please.,0,0,0.0,0
+D002,Agent,Security check required.,0,0,0.0,0
+D002,Client,check balance please.,0,0,0.0,0
+D002,Agent,Can you confirm the amount?,0,0,0.0,0
+D002,Agent,Account confirmed.,0,0,0.0,0
+D002,Client,change phone number please.,0,0,0.0,0
+D002,Agent,Verify details?,0,0,0.0,0
+D002,Agent,Processing request.,0,0,0.0,0
+D002,Client,change phone number please.,0,0,0.0,0
+D002,Client,statement please please.,0,0,0.33,0
+D002,Agent,Account confirmed.,0,0,0.0,0
+D003,Agent,Security check required.,0,0,0.0,0
+D003,Agent,Which account number?,0,0,0.0,0
+D003,Agent,Which account number?,0,0,0.0,0
+D003,Client,change phone number please.,0,0,0.0,0
+D003,Client,recent transactions please.,0,0,0.0,0
+D003,Client,check balance please.,0,0,0.0,0
+D004,Client,change phone number please.,0,0,0.0,0
+D004,Agent,Processing request.,0,0,0.0,0
+D004,Agent,Verify details?,0,0,0.0,0
+D004,Client,recent transactions please.,0,0,0.0,0
+D004,Agent,Which account number?,0,0,0.0,0
+D004,Client,check balance please.,0,0,0.0,0
+D005,Agent,Verify details?,0,0,0.0,0
+D005,Client,recent transactions please.,0,0,0.0,0
+D005,Agent,Security check required.,0,0,0.0,0
+D005,Agent,Can you confirm the amount?,0,0,0.0,0
+D005,Agent,Account confirmed.,0,0,0.0,0
+D005,Client,check balance please.,0,0,0.0,0
+D005,Client,change phone number please.,0,0,0.0,0
+D005,Agent,Which account number?,0,0,0.0,0
+D005,Agent,Account confirmed.,0,0,0.0,0
+D005,Client,recent transactions please.,0,0,0.0,0
+D005,Client,check balance please.,0,0,0.0,0
+D006,Agent,Security check required.,0,0,0.0,0
+D006,Agent,Security check required.,0,0,0.0,0
+D006,Client,check balance please.,0,0,0.0,0
+D006,Agent,Which account number?,0,0,0.0,0
+D006,Agent,Account confirmed.,0,0,0.0,0
+D006,Agent,Which account number?,0,0,0.0,0
+D006,Agent,Verify details?,0,0,0.0,0
+D006,Client,change phone number please.,0,0,0.0,0
+D006,Agent,Security check required.,0,0,0.0,0
+D006,Agent,Verify details?,0,0,0.0,0
+D006,Client,update address please.,0,0,0.0,0
+D007,Client,statement please please.,0,0,0.33,0
+D007,Client,change phone number please.,0,0,0.0,0
+D007,Client,statement please please.,0,0,0.33,0
+D007,Client,update address please.,0,0,0.0,0
+D007,Agent,Account confirmed.,0,0,0.0,0
+D007,Client,check balance please.,0,0,0.0,0
+D007,Agent,Verify details?,0,0,0.0,0
+D008,Agent,Which account number?,0,0,0.0,0
+D008,Client,update address please.,0,0,0.0,0
+D008,Agent,Can you confirm the amount?,0,0,0.0,0
+D008,Client,update address please.,0,0,0.0,0
+D008,Client,recent transactions please.,0,0,0.0,0
+D008,Agent,Security check required.,0,0,0.0,0
+D008,Client,change phone number please.,0,0,0.0,0
+D009,Client,statement please please.,0,0,0.33,0
+D009,Client,update address please.,0,0,0.0,0
+D009,Client,check balance please.,0,0,0.0,0
+D009,Client,change phone number please.,0,0,0.0,0
+D009,Agent,Which account number?,0,0,0.0,0
+D009,Agent,Verify details?,0,0,0.0,0
+D010,Client,check balance please.,0,0,0.0,0
+D010,Agent,Account confirmed.,0,0,0.0,0
+D010,Agent,Which account number?,0,0,0.0,0
+D010,Agent,Verify details?,0,0,0.0,0
+D010,Agent,Verify details?,0,0,0.0,0
+D010,Agent,Can you confirm the amount?,0,0,0.0,0
+D011,Agent,Processing request.,0,0,0.0,0
+D011,Agent,Security check required.,0,0,0.0,0
+D011,Client,recent transactions please.,0,0,0.0,0
+D011,Client,check balance please.,0,0,0.0,0
+D011,Client,update address please.,0,0,0.0,0
+D011,Agent,Verify details?,0,0,0.0,0
+D012,Client,recent transactions please.,0,0,0.0,0
+D012,Agent,Verify details?,0,0,0.0,0
+D012,Client,update address please.,0,0,0.0,0
+D012,Agent,Account confirmed.,0,0,0.0,0
+D012,Agent,Processing request.,0,0,0.0,0
+D012,Agent,Account confirmed.,0,0,0.0,0
+D012,Client,update address please.,0,0,0.0,0
+D012,Agent,Verify details?,0,0,0.0,0
+D012,Client,statement please please.,0,0,0.33,0
+D012,Agent,Processing request.,0,0,0.0,0
+D012,Client,change phone number please.,0,0,0.0,0
+D013,Client,update address please.,0,0,0.0,0
+D013,Client,statement please please.,0,0,0.33,0
+D013,Agent,Processing request.,0,0,0.0,0
+D013,Client,recent transactions please.,0,0,0.0,0
+D013,Client,check balance please.,0,0,0.0,0
+D013,Client,recent transactions please.,0,0,0.0,0
+D013,Client,check balance please.,0,0,0.0,0
+D014,Agent,Can you confirm the amount?,0,0,0.0,0
+D014,Client,change phone number please.,0,0,0.0,0
+D014,Client,change phone number please.,0,0,0.0,0
+D014,Agent,Account confirmed.,0,0,0.0,0
+D014,Client,statement please please.,0,0,0.33,0
+D014,Client,statement please please.,0,0,0.33,0
+D014,Client,update address please.,0,0,0.0,0
+D014,Agent,Which account number?,0,0,0.0,0
+D015,Agent,Security check required.,0,0,0.0,0
+D015,Agent,Account confirmed.,0,0,0.0,0
+D015,Agent,Verify details?,0,0,0.0,0
+D015,Agent,Verify details?,0,0,0.0,0
+D015,Client,update address please.,0,0,0.0,0
+D015,Client,statement please please.,0,0,0.33,0
+D015,Agent,Security check required.,0,0,0.0,0
+D015,Agent,Account confirmed.,0,0,0.0,0
+D015,Agent,Can you confirm the amount?,0,0,0.0,0
+D016,Agent,Which account number?,0,0,0.0,0
+D016,Client,check balance please.,0,0,0.0,0
+D016,Agent,Which account number?,0,0,0.0,0
+D016,Agent,Can you confirm the amount?,0,0,0.0,0
+D016,Client,change phone number please.,0,0,0.0,0
+D016,Agent,Processing request.,0,0,0.0,0
+D017,Client,recent transactions please.,0,0,0.0,0
+D017,Client,recent transactions please.,0,0,0.0,0
+D017,Client,statement please please.,0,0,0.33,0
+D017,Client,change phone number please.,0,0,0.0,0
+D017,Agent,Can you confirm the amount?,0,0,0.0,0
+D017,Client,recent transactions please.,0,0,0.0,0
+D017,Agent,Account confirmed.,0,0,0.0,0
+D017,Agent,Processing request.,0,0,0.0,0
+D017,Client,recent transactions please.,0,0,0.0,0
+D017,Agent,Processing request.,0,0,0.0,0
+D018,Agent,Account confirmed.,0,0,0.0,0
+D018,Agent,Can you confirm the amount?,0,0,0.0,0
+D018,Client,update address please.,0,0,0.0,0
+D018,Client,statement please please.,0,0,0.33,0
+D018,Client,change phone number please.,0,0,0.0,0
+D018,Agent,Which account number?,0,0,0.0,0
+D018,Client,statement please please.,0,0,0.33,0
+D018,Client,check balance please.,0,0,0.0,0
+D018,Client,recent transactions please.,0,0,0.0,0
+D018,Agent,Account confirmed.,0,0,0.0,0
+D019,Client,statement please please.,0,0,0.33,0
+D019,Agent,Which account number?,0,0,0.0,0
+D019,Agent,Verify details?,0,0,0.0,0
+D019,Agent,Verify details?,0,0,0.0,0
+D019,Client,change phone number please.,0,0,0.0,0
+D019,Client,change phone number please.,0,0,0.0,0
+D019,Client,statement please please.,0,0,0.33,0
+D019,Agent,Can you confirm the amount?,0,0,0.0,0
+D019,Agent,Verify details?,0,0,0.0,0
+D020,Agent,Verify details?,0,0,0.0,0
+D020,Agent,Account confirmed.,0,0,0.0,0
+D020,Client,update address please.,0,0,0.0,0
+D020,Agent,Processing request.,0,0,0.0,0
+D020,Client,statement please please.,0,0,0.33,0
+D020,Agent,Processing request.,0,0,0.0,0
+D020,Agent,Processing request.,0,0,0.0,0
+D020,Client,statement please please.,0,0,0.33,0
+D020,Client,statement please please.,0,0,0.33,0
+D020,Agent,Verify details?,0,0,0.0,0
+D020,Agent,Can you confirm the amount?,0,0,0.0,0
+D021,Client,check balance please.,0,0,0.0,0
+D021,Client,statement please please.,0,0,0.33,0
+D021,Agent,Which account number?,0,0,0.0,0
+D021,Agent,Security check required.,0,0,0.0,0
+D021,Agent,Processing request.,0,0,0.0,0
+D021,Agent,Security check required.,0,0,0.0,0
+D021,Agent,Verify details?,0,0,0.0,0
+D022,Client,check balance please.,0,0,0.0,0
+D022,Agent,Security check required.,0,0,0.0,0
+D022,Agent,Verify details?,0,0,0.0,0
+D022,Client,check balance please.,0,0,0.0,0
+D022,Agent,Verify details?,0,0,0.0,0
+D022,Client,check balance please.,0,0,0.0,0
+D022,Agent,Verify details?,0,0,0.0,0
+D022,Agent,Account confirmed.,0,0,0.0,0
+D022,Client,statement please please.,0,0,0.33,0
+D023,Client,change phone number please.,0,0,0.0,0
+D023,Client,update address please.,0,0,0.0,0
+D023,Client,check balance please.,0,0,0.0,0
+D023,Agent,Verify details?,0,0,0.0,0
+D023,Client,check balance please.,0,0,0.0,0
+D023,Client,update address please.,0,0,0.0,0
+D023,Agent,Which account number?,0,0,0.0,0
+D023,Client,statement please please.,0,0,0.33,0
+D023,Client,statement please please.,0,0,0.33,0
+D023,Agent,Verify details?,0,0,0.0,0
+D023,Client,check balance please.,0,0,0.0,0
+D024,Client,urgent transfer maybe $5845 to new account.,1,1,-0.14,1
+D024,Client,maybe tomorrow if not $6880 to supplier.,1,0,0.0,1
+D024,Client,maybe tomorrow if not sort of $6617 to vendor.,2,0,0.0,1
+D024,Client,send now to this account approximately $8993 to new account.,1,1,0.0,1
+D024,Agent,Which account number?,0,0,0.0,1
+D024,Client,urgent transfer $9220 to vendor.,0,1,-0.2,1
+D024,Agent,Verify details?,0,0,0.0,1
+D025,Agent,Verify details?,0,0,0.0,0
+D025,Agent,Can you confirm the amount?,0,0,0.0,0
+D025,Client,change phone number please.,0,0,0.0,0
+D025,Agent,Processing request.,0,0,0.0,0
+D025,Client,change phone number please.,0,0,0.0,0
+D025,Client,update address please.,0,0,0.0,0
+D025,Agent,Processing request.,0,0,0.0,0
+D025,Agent,Which account number?,0,0,0.0,0
+D025,Agent,Which account number?,0,0,0.0,0
+D025,Agent,Account confirmed.,0,0,0.0,0
+D025,Client,update address please.,0,0,0.0,0
+D026,Client,check balance please.,0,0,0.0,0
+D026,Client,change phone number please.,0,0,0.0,0
+D026,Client,check balance please.,0,0,0.0,0
+D026,Agent,Account confirmed.,0,0,0.0,0
+D026,Agent,Security check required.,0,0,0.0,0
+D026,Agent,Verify details?,0,0,0.0,0
+D026,Client,change phone number please.,0,0,0.0,0
+D026,Client,check balance please.,0,0,0.0,0
+D026,Client,statement please please.,0,0,0.33,0
+D026,Agent,Can you confirm the amount?,0,0,0.0,0
+D026,Agent,Can you confirm the amount?,0,0,0.0,0
+D026,Client,statement please please.,0,0,0.33,0
+D027,Agent,Verify details?,0,0,0.0,0
+D027,Agent,Security check required.,0,0,0.0,0
+D027,Agent,Account confirmed.,0,0,0.0,0
+D027,Agent,Security check required.,0,0,0.0,0
+D027,Client,update address please.,0,0,0.0,0
+D027,Client,recent transactions please.,0,0,0.0,0
+D027,Agent,Verify details?,0,0,0.0,0
+D027,Agent,Verify details?,0,0,0.0,0
+D027,Client,update address please.,0,0,0.0,0
+D027,Client,update address please.,0,0,0.0,0
+D027,Client,statement please please.,0,0,0.33,0
+D028,Client,change phone number please.,0,0,0.0,0
+D028,Agent,Account confirmed.,0,0,0.0,0
+D028,Agent,Verify details?,0,0,0.0,0
+D028,Agent,Account confirmed.,0,0,0.0,0
+D028,Client,recent transactions please.,0,0,0.0,0
+D028,Agent,Verify details?,0,0,0.0,0
+D028,Client,recent transactions please.,0,0,0.0,0
+D028,Agent,Security check required.,0,0,0.0,0
+D028,Client,check balance please.,0,0,0.0,0
+D028,Client,check balance please.,0,0,0.0,0
+D028,Client,check balance please.,0,0,0.0,0
+D029,Client,check balance please.,0,0,0.0,0
+D029,Agent,Which account number?,0,0,0.0,0
+D029,Client,check balance please.,0,0,0.0,0
+D029,Agent,Processing request.,0,0,0.0,0
+D029,Agent,Which account number?,0,0,0.0,0
+D029,Client,statement please please.,0,0,0.33,0
+D029,Client,statement please please.,0,0,0.33,0
+D029,Agent,Which account number?,0,0,0.0,0
+D029,Client,statement please please.,0,0,0.33,0
+D029,Agent,Security check required.,0,0,0.0,0
+D029,Agent,Security check required.,0,0,0.0,0
+D030,Agent,Security check required.,0,0,0.0,0
+D030,Client,update address please.,0,0,0.0,0
+D030,Agent,Security check required.,0,0,0.0,0
+D030,Client,change phone number please.,0,0,0.0,0
+D030,Agent,Security check required.,0,0,0.0,0
+D030,Client,check balance please.,0,0,0.0,0
+D030,Agent,Can you confirm the amount?,0,0,0.0,0
+D030,Client,update address please.,0,0,0.0,0
+D030,Agent,Processing request.,0,0,0.0,0
+D030,Client,change phone number please.,0,0,0.0,0
+D030,Client,change phone number please.,0,0,0.0,0
+D031,Client,recent transactions please.,0,0,0.0,0
+D031,Agent,Can you confirm the amount?,0,0,0.0,0
+D031,Agent,Which account number?,0,0,0.0,0
+D031,Agent,Security check required.,0,0,0.0,0
+D031,Client,update address please.,0,0,0.0,0
+D031,Client,check balance please.,0,0,0.0,0
+D031,Client,change phone number please.,0,0,0.0,0
+D031,Agent,Can you confirm the amount?,0,0,0.0,0
+D031,Agent,Can you confirm the amount?,0,0,0.0,0
+D031,Client,recent transactions please.,0,0,0.0,0
+D031,Agent,Account confirmed.,0,0,0.0,0
+D031,Agent,Can you confirm the amount?,0,0,0.0,0
+D032,Client,statement please please.,0,0,0.33,0
+D032,Client,update address please.,0,0,0.0,0
+D032,Client,change phone number please.,0,0,0.0,0
+D032,Agent,Account confirmed.,0,0,0.0,0
+D032,Agent,Verify details?,0,0,0.0,0
+D032,Client,statement please please.,0,0,0.33,0
+D032,Agent,Which account number?,0,0,0.0,0
+D032,Client,statement please please.,0,0,0.33,0
+D032,Client,check balance please.,0,0,0.0,0
+D032,Agent,Processing request.,0,0,0.0,0
+D032,Agent,Processing request.,0,0,0.0,0
+D033,Agent,Security check required.,0,0,0.0,0
+D033,Agent,Which account number?,0,0,0.0,0
+D033,Agent,Can you confirm the amount?,0,0,0.0,0
+D033,Client,statement please please.,0,0,0.33,0
+D033,Client,recent transactions please.,0,0,0.0,0
+D033,Client,check balance please.,0,0,0.0,0
+D034,Agent,Security check required.,0,0,0.0,0
+D034,Agent,Processing request.,0,0,0.0,0
+D034,Client,recent transactions please.,0,0,0.0,0
+D034,Agent,Verify details?,0,0,0.0,0
+D034,Client,recent transactions please.,0,0,0.0,0
+D034,Client,update address please.,0,0,0.0,0
+D034,Client,change phone number please.,0,0,0.0,0
+D034,Client,check balance please.,0,0,0.0,0
+D034,Client,update address please.,0,0,0.0,0
+D034,Client,check balance please.,0,0,0.0,0
+D035,Agent,Processing request.,0,0,0.0,0
+D035,Client,change phone number please.,0,0,0.0,0
+D035,Agent,Verify details?,0,0,0.0,0
+D035,Agent,Can you confirm the amount?,0,0,0.0,0
+D035,Agent,Which account number?,0,0,0.0,0
+D035,Client,recent transactions please.,0,0,0.0,0
+D035,Agent,Account confirmed.,0,0,0.0,0
+D035,Agent,Account confirmed.,0,0,0.0,0
+D035,Client,update address please.,0,0,0.0,0
+D035,Client,statement please please.,0,0,0.33,0
+D035,Agent,Account confirmed.,0,0,0.0,0
+D035,Agent,Processing request.,0,0,0.0,0
+D036,Client,urgent transfer sort of $10863 to supplier.,1,1,-0.14,1
+D036,Agent,Security check required.,0,0,0.0,1
+D036,Client,maybe tomorrow if not maybe $20547 to supplier.,1,0,0.0,1
+D036,Client,it's an emergency sort of $15113 to friend.,1,0,-0.12,1
+D036,Agent,Security check required.,0,0,0.0,1
+D036,Agent,Processing request.,0,0,0.0,1
+D036,Client,maybe tomorrow if not possibly $9184 to vendor.,2,0,0.0,1
+D036,Agent,Verify details?,0,0,0.0,1
+D037,Agent,Processing request.,0,0,0.0,1
+D037,Agent,Verify details?,0,0,0.0,1
+D037,Agent,Can you confirm the amount?,0,0,0.0,1
+D037,Client,it's an emergency possibly $18013 to vendor.,1,0,-0.14,1
+D037,Agent,Account confirmed.,0,0,0.0,1
+D037,Client,need to move money quickly $16780 to new account.,0,1,0.0,1
+D037,Agent,Processing request.,0,0,0.0,1
+D037,Agent,Which account number?,0,0,0.0,1
+D037,Agent,Verify details?,0,0,0.0,1
+D037,Client,urgent transfer kind of $15063 to new account.,1,1,-0.12,1
+D037,Client,it's an emergency approximately $8220 to friend.,1,0,-0.14,1
+D037,Client,maybe tomorrow if not approximately $11068 to supplier.,2,0,0.0,1
+D038,Client,recent transactions please.,0,0,0.0,0
+D038,Client,recent transactions please.,0,0,0.0,0
+D038,Agent,Verify details?,0,0,0.0,0
+D038,Client,change phone number please.,0,0,0.0,0
+D038,Client,statement please please.,0,0,0.33,0
+D038,Agent,Which account number?,0,0,0.0,0
+D038,Client,change phone number please.,0,0,0.0,0
+D038,Client,recent transactions please.,0,0,0.0,0
+D038,Client,statement please please.,0,0,0.33,0
+D038,Client,recent transactions please.,0,0,0.0,0
+D038,Agent,Security check required.,0,0,0.0,0
+D039,Client,statement please please.,0,0,0.33,0
+D039,Client,statement please please.,0,0,0.33,0
+D039,Client,update address please.,0,0,0.0,0
+D039,Agent,Security check required.,0,0,0.0,0
+D039,Client,check balance please.,0,0,0.0,0
+D039,Agent,Which account number?,0,0,0.0,0
+D039,Client,change phone number please.,0,0,0.0,0
+D039,Agent,Can you confirm the amount?,0,0,0.0,0
+D039,Client,statement please please.,0,0,0.33,0
+D039,Agent,Account confirmed.,0,0,0.0,0
+D039,Agent,Which account number?,0,0,0.0,0
+D040,Agent,Account confirmed.,0,0,0.0,0
+D040,Client,change phone number please.,0,0,0.0,0
+D040,Client,statement please please.,0,0,0.33,0
+D040,Client,recent transactions please.,0,0,0.0,0
+D040,Agent,Can you confirm the amount?,0,0,0.0,0
+D040,Agent,Processing request.,0,0,0.0,0
+D040,Agent,Processing request.,0,0,0.0,0
+D040,Client,update address please.,0,0,0.0,0
+D040,Agent,Security check required.,0,0,0.0,0
+D040,Agent,Verify details?,0,0,0.0,0
+D041,Client,statement please please.,0,0,0.33,0
+D041,Client,statement please please.,0,0,0.33,0
+D041,Agent,Can you confirm the amount?,0,0,0.0,0
+D041,Client,change phone number please.,0,0,0.0,0
+D041,Agent,Processing request.,0,0,0.0,0
+D041,Agent,Verify details?,0,0,0.0,0
+D041,Client,update address please.,0,0,0.0,0
+D041,Agent,Which account number?,0,0,0.0,0
+D041,Agent,Security check required.,0,0,0.0,0
+D041,Client,recent transactions please.,0,0,0.0,0
+D042,Agent,Which account number?,0,0,0.0,0
+D042,Agent,Which account number?,0,0,0.0,0
+D042,Client,update address please.,0,0,0.0,0
+D042,Client,update address please.,0,0,0.0,0
+D042,Agent,Which account number?,0,0,0.0,0
+D042,Agent,Can you confirm the amount?,0,0,0.0,0
+D042,Client,recent transactions please.,0,0,0.0,0
+D042,Client,check balance please.,0,0,0.0,0
+D043,Agent,Security check required.,0,0,0.0,0
+D043,Client,change phone number please.,0,0,0.0,0
+D043,Agent,Security check required.,0,0,0.0,0
+D043,Agent,Which account number?,0,0,0.0,0
+D043,Agent,Verify details?,0,0,0.0,0
+D043,Agent,Which account number?,0,0,0.0,0
+D043,Client,change phone number please.,0,0,0.0,0
+D043,Client,change phone number please.,0,0,0.0,0
+D043,Client,check balance please.,0,0,0.0,0
+D043,Agent,Which account number?,0,0,0.0,0
+D044,Agent,Which account number?,0,0,0.0,0
+D044,Client,update address please.,0,0,0.0,0
+D044,Agent,Which account number?,0,0,0.0,0
+D044,Agent,Processing request.,0,0,0.0,0
+D044,Agent,Which account number?,0,0,0.0,0
+D044,Client,recent transactions please.,0,0,0.0,0
+D045,Agent,Security check required.,0,0,0.0,0
+D045,Client,statement please please.,0,0,0.33,0
+D045,Client,change phone number please.,0,0,0.0,0
+D045,Agent,Can you confirm the amount?,0,0,0.0,0
+D045,Client,change phone number please.,0,0,0.0,0
+D045,Agent,Security check required.,0,0,0.0,0
+D045,Agent,Which account number?,0,0,0.0,0
+D046,Client,update address please.,0,0,0.0,0
+D046,Client,check balance please.,0,0,0.0,0
+D046,Client,statement please please.,0,0,0.33,0
+D046,Client,check balance please.,0,0,0.0,0
+D046,Agent,Which account number?,0,0,0.0,0
+D046,Agent,Can you confirm the amount?,0,0,0.0,0
+D046,Client,recent transactions please.,0,0,0.0,0
+D046,Client,update address please.,0,0,0.0,0
+D046,Client,update address please.,0,0,0.0,0
+D046,Agent,Security check required.,0,0,0.0,0
+D046,Agent,Verify details?,0,0,0.0,0
+D046,Agent,Processing request.,0,0,0.0,0
+D047,Client,it's an emergency maybe $6194 to friend.,1,0,-0.14,1
+D047,Agent,Which account number?,0,0,0.0,1
+D047,Agent,Can you confirm the amount?,0,0,0.0,1
+D047,Client,urgent transfer $22412 to friend.,0,1,-0.2,1
+D047,Client,it's an emergency I think $24917 to new account.,0,0,-0.11,1
+D047,Agent,Security check required.,0,0,0.0,1
+D047,Client,urgent transfer sort of $21083 to supplier.,1,1,-0.14,1
+D048,Client,urgent transfer possibly $10049 to new account.,1,1,-0.14,1
+D048,Client,maybe tomorrow if not maybe $13174 to vendor.,1,0,0.0,1
+D048,Client,need to move money quickly maybe $17681 to vendor.,1,1,0.0,1
+D048,Client,send now to this account I think $23002 to new account.,0,1,0.0,1
+D048,Client,send now to this account I think $11949 to vendor.,0,1,0.0,1
+D048,Agent,Security check required.,0,0,0.0,1
+D048,Client,maybe tomorrow if not kind of $16765 to vendor.,2,0,0.0,1
+D048,Client,need to move money quickly I think $5301 to vendor.,0,1,0.0,1
+D048,Agent,Verify details?,0,0,0.0,1
+D048,Client,it's an emergency $5803 to friend.,0,0,-0.17,1
+D049,Client,check balance please.,0,0,0.0,0
+D049,Agent,Can you confirm the amount?,0,0,0.0,0
+D049,Agent,Security check required.,0,0,0.0,0
+D049,Client,change phone number please.,0,0,0.0,0
+D049,Agent,Verify details?,0,0,0.0,0
+D049,Agent,Which account number?,0,0,0.0,0
+D049,Client,statement please please.,0,0,0.33,0
+D049,Client,recent transactions please.,0,0,0.0,0
+D050,Agent,Can you confirm the amount?,0,0,0.0,0
+D050,Client,check balance please.,0,0,0.0,0
+D050,Agent,Processing request.,0,0,0.0,0
+D050,Agent,Processing request.,0,0,0.0,0
+D050,Agent,Security check required.,0,0,0.0,0
+D050,Client,check balance please.,0,0,0.0,0
+D050,Agent,Security check required.,0,0,0.0,0
+D050,Client,check balance please.,0,0,0.0,0
+D050,Agent,Security check required.,0,0,0.0,0
+D050,Client,check balance please.,0,0,0.0,0
+D050,Agent,Processing request.,0,0,0.0,0
+D050,Client,check balance please.,0,0,0.0,0
+D051,Client,recent transactions please.,0,0,0.0,0
+D051,Agent,Account confirmed.,0,0,0.0,0
+D051,Client,change phone number please.,0,0,0.0,0
+D051,Client,update address please.,0,0,0.0,0
+D051,Client,check balance please.,0,0,0.0,0
+D051,Agent,Processing request.,0,0,0.0,0
+D051,Agent,Account confirmed.,0,0,0.0,0
+D052,Client,update address please.,0,0,0.0,0
+D052,Client,change phone number please.,0,0,0.0,0
+D052,Client,change phone number please.,0,0,0.0,0
+D052,Client,recent transactions please.,0,0,0.0,0
+D052,Agent,Can you confirm the amount?,0,0,0.0,0
+D052,Client,update address please.,0,0,0.0,0
+D052,Client,statement please please.,0,0,0.33,0
+D052,Agent,Verify details?,0,0,0.0,0
+D052,Agent,Which account number?,0,0,0.0,0
+D053,Agent,Processing request.,0,0,0.0,0
+D053,Client,statement please please.,0,0,0.33,0
+D053,Agent,Account confirmed.,0,0,0.0,0
+D053,Client,recent transactions please.,0,0,0.0,0
+D053,Agent,Verify details?,0,0,0.0,0
+D053,Agent,Can you confirm the amount?,0,0,0.0,0
+D053,Client,check balance please.,0,0,0.0,0
+D054,Client,check balance please.,0,0,0.0,0
+D054,Agent,Verify details?,0,0,0.0,0
+D054,Agent,Security check required.,0,0,0.0,0
+D054,Client,check balance please.,0,0,0.0,0
+D054,Agent,Can you confirm the amount?,0,0,0.0,0
+D054,Client,update address please.,0,0,0.0,0
+D054,Agent,Account confirmed.,0,0,0.0,0
+D054,Client,check balance please.,0,0,0.0,0
+D055,Agent,Which account number?,0,0,0.0,0
+D055,Client,change phone number please.,0,0,0.0,0
+D055,Client,change phone number please.,0,0,0.0,0
+D055,Client,check balance please.,0,0,0.0,0
+D055,Client,update address please.,0,0,0.0,0
+D055,Client,check balance please.,0,0,0.0,0
+D056,Client,change phone number please.,0,0,0.0,0
+D056,Agent,Security check required.,0,0,0.0,0
+D056,Client,statement please please.,0,0,0.33,0
+D056,Agent,Which account number?,0,0,0.0,0
+D056,Client,update address please.,0,0,0.0,0
+D056,Agent,Which account number?,0,0,0.0,0
+D056,Client,check balance please.,0,0,0.0,0
+D057,Client,recent transactions please.,0,0,0.0,0
+D057,Agent,Security check required.,0,0,0.0,0
+D057,Agent,Security check required.,0,0,0.0,0
+D057,Client,check balance please.,0,0,0.0,0
+D057,Client,update address please.,0,0,0.0,0
+D057,Client,update address please.,0,0,0.0,0
+D057,Agent,Account confirmed.,0,0,0.0,0
+D057,Client,change phone number please.,0,0,0.0,0
+D057,Client,change phone number please.,0,0,0.0,0
+D057,Client,recent transactions please.,0,0,0.0,0
+D058,Client,check balance please.,0,0,0.0,0
+D058,Agent,Processing request.,0,0,0.0,0
+D058,Client,statement please please.,0,0,0.33,0
+D058,Agent,Can you confirm the amount?,0,0,0.0,0
+D058,Client,change phone number please.,0,0,0.0,0
+D058,Agent,Security check required.,0,0,0.0,0
+D058,Client,check balance please.,0,0,0.0,0
+D058,Agent,Account confirmed.,0,0,0.0,0
+D059,Client,statement please please.,0,0,0.33,0
+D059,Client,statement please please.,0,0,0.33,0
+D059,Client,change phone number please.,0,0,0.0,0
+D059,Agent,Can you confirm the amount?,0,0,0.0,0
+D059,Client,statement please please.,0,0,0.33,0
+D059,Client,check balance please.,0,0,0.0,0
+D059,Client,update address please.,0,0,0.0,0
+D059,Client,check balance please.,0,0,0.0,0
+D059,Agent,Security check required.,0,0,0.0,0
+D059,Agent,Verify details?,0,0,0.0,0
+D060,Agent,Verify details?,0,0,0.0,0
+D060,Agent,Verify details?,0,0,0.0,0
+D060,Client,update address please.,0,0,0.0,0
+D060,Client,check balance please.,0,0,0.0,0
+D060,Agent,Which account number?,0,0,0.0,0
+D060,Agent,Verify details?,0,0,0.0,0
+D060,Client,recent transactions please.,0,0,0.0,0
+D061,Agent,Account confirmed.,0,0,0.0,0
+D061,Client,statement please please.,0,0,0.33,0
+D061,Client,update address please.,0,0,0.0,0
+D061,Client,update address please.,0,0,0.0,0
+D061,Client,change phone number please.,0,0,0.0,0
+D061,Agent,Processing request.,0,0,0.0,0
+D061,Client,check balance please.,0,0,0.0,0
+D062,Agent,Can you confirm the amount?,0,0,0.0,0
+D062,Client,recent transactions please.,0,0,0.0,0
+D062,Agent,Processing request.,0,0,0.0,0
+D062,Agent,Security check required.,0,0,0.0,0
+D062,Agent,Which account number?,0,0,0.0,0
+D062,Agent,Security check required.,0,0,0.0,0
+D062,Agent,Security check required.,0,0,0.0,0
+D062,Agent,Verify details?,0,0,0.0,0
+D062,Client,recent transactions please.,0,0,0.0,0
+D063,Agent,Can you confirm the amount?,0,0,0.0,0
+D063,Agent,Verify details?,0,0,0.0,0
+D063,Agent,Which account number?,0,0,0.0,0
+D063,Agent,Can you confirm the amount?,0,0,0.0,0
+D063,Agent,Verify details?,0,0,0.0,0
+D063,Agent,Which account number?,0,0,0.0,0
+D063,Agent,Security check required.,0,0,0.0,0
+D063,Agent,Security check required.,0,0,0.0,0
+D063,Agent,Verify details?,0,0,0.0,0
+D063,Agent,Which account number?,0,0,0.0,0
+D063,Client,statement please please.,0,0,0.33,0
+D064,Client,update address please.,0,0,0.0,0
+D064,Agent,Can you confirm the amount?,0,0,0.0,0
+D064,Client,statement please please.,0,0,0.33,0
+D064,Agent,Security check required.,0,0,0.0,0
+D064,Agent,Can you confirm the amount?,0,0,0.0,0
+D064,Agent,Security check required.,0,0,0.0,0
+D065,Client,statement please please.,0,0,0.33,0
+D065,Agent,Security check required.,0,0,0.0,0
+D065,Client,recent transactions please.,0,0,0.0,0
+D065,Client,statement please please.,0,0,0.33,0
+D065,Agent,Account confirmed.,0,0,0.0,0
+D065,Agent,Verify details?,0,0,0.0,0
+D065,Client,update address please.,0,0,0.0,0
+D065,Client,change phone number please.,0,0,0.0,0
+D065,Agent,Can you confirm the amount?,0,0,0.0,0
+D065,Agent,Processing request.,0,0,0.0,0
+D065,Client,statement please please.,0,0,0.33,0
+D066,Agent,Processing request.,0,0,0.0,0
+D066,Agent,Security check required.,0,0,0.0,0
+D066,Agent,Can you confirm the amount?,0,0,0.0,0
+D066,Client,statement please please.,0,0,0.33,0
+D066,Agent,Processing request.,0,0,0.0,0
+D066,Client,update address please.,0,0,0.0,0
+D066,Client,statement please please.,0,0,0.33,0
+D066,Client,recent transactions please.,0,0,0.0,0
+D066,Agent,Which account number?,0,0,0.0,0
+D066,Client,recent transactions please.,0,0,0.0,0
+D066,Client,update address please.,0,0,0.0,0
+D067,Client,check balance please.,0,0,0.0,0
+D067,Client,check balance please.,0,0,0.0,0
+D067,Agent,Security check required.,0,0,0.0,0
+D067,Agent,Processing request.,0,0,0.0,0
+D067,Agent,Account confirmed.,0,0,0.0,0
+D067,Client,update address please.,0,0,0.0,0
+D067,Agent,Verify details?,0,0,0.0,0
+D067,Agent,Which account number?,0,0,0.0,0
+D067,Agent,Can you confirm the amount?,0,0,0.0,0
+D067,Client,update address please.,0,0,0.0,0
+D067,Client,recent transactions please.,0,0,0.0,0
+D067,Agent,Which account number?,0,0,0.0,0
+D068,Client,check balance please.,0,0,0.0,0
+D068,Client,update address please.,0,0,0.0,0
+D068,Client,recent transactions please.,0,0,0.0,0
+D068,Client,change phone number please.,0,0,0.0,0
+D068,Agent,Which account number?,0,0,0.0,0
+D068,Agent,Verify details?,0,0,0.0,0
+D068,Agent,Can you confirm the amount?,0,0,0.0,0
+D068,Agent,Security check required.,0,0,0.0,0
+D068,Client,recent transactions please.,0,0,0.0,0
+D068,Agent,Can you confirm the amount?,0,0,0.0,0
+D068,Client,check balance please.,0,0,0.0,0
+D068,Agent,Account confirmed.,0,0,0.0,0
+D069,Client,recent transactions please.,0,0,0.0,0
+D069,Agent,Which account number?,0,0,0.0,0
+D069,Client,change phone number please.,0,0,0.0,0
+D069,Agent,Account confirmed.,0,0,0.0,0
+D069,Client,recent transactions please.,0,0,0.0,0
+D069,Agent,Account confirmed.,0,0,0.0,0
+D069,Agent,Processing request.,0,0,0.0,0
+D069,Agent,Verify details?,0,0,0.0,0
+D069,Agent,Can you confirm the amount?,0,0,0.0,0
+D070,Client,send now to this account I think $9726 to new account.,0,1,0.0,1
+D070,Client,send now to this account approximately $11840 to friend.,1,1,0.0,1
+D070,Agent,Verify details?,0,0,0.0,1
+D070,Agent,Verify details?,0,0,0.0,1
+D070,Agent,Can you confirm the amount?,0,0,0.0,1
+D070,Agent,Which account number?,0,0,0.0,1
+D070,Agent,Processing request.,0,0,0.0,1
+D070,Agent,Account confirmed.,0,0,0.0,1
+D070,Client,it's an emergency $20456 to friend.,0,0,-0.17,1
+D070,Client,maybe tomorrow if not I think $9758 to new account.,1,0,0.0,1
+D070,Client,need to move money quickly approximately $20313 to supplier.,1,1,0.0,1
+D071,Client,recent transactions please.,0,0,0.0,0
+D071,Client,update address please.,0,0,0.0,0
+D071,Client,change phone number please.,0,0,0.0,0
+D071,Agent,Which account number?,0,0,0.0,0
+D071,Client,change phone number please.,0,0,0.0,0
+D071,Agent,Security check required.,0,0,0.0,0
+D071,Agent,Which account number?,0,0,0.0,0
+D071,Client,check balance please.,0,0,0.0,0
+D071,Agent,Security check required.,0,0,0.0,0
+D071,Client,check balance please.,0,0,0.0,0
+D072,Client,update address please.,0,0,0.0,0
+D072,Agent,Verify details?,0,0,0.0,0
+D072,Client,change phone number please.,0,0,0.0,0
+D072,Client,recent transactions please.,0,0,0.0,0
+D072,Client,update address please.,0,0,0.0,0
+D072,Agent,Verify details?,0,0,0.0,0
+D072,Client,statement please please.,0,0,0.33,0
+D072,Client,update address please.,0,0,0.0,0
+D072,Agent,Can you confirm the amount?,0,0,0.0,0
+D072,Client,change phone number please.,0,0,0.0,0
+D072,Agent,Can you confirm the amount?,0,0,0.0,0
+D073,Client,change phone number please.,0,0,0.0,0
+D073,Agent,Processing request.,0,0,0.0,0
+D073,Client,statement please please.,0,0,0.33,0
+D073,Client,change phone number please.,0,0,0.0,0
+D073,Agent,Verify details?,0,0,0.0,0
+D073,Client,change phone number please.,0,0,0.0,0
+D073,Client,check balance please.,0,0,0.0,0
+D073,Client,statement please please.,0,0,0.33,0
+D073,Client,recent transactions please.,0,0,0.0,0
+D073,Client,change phone number please.,0,0,0.0,0
+D073,Client,change phone number please.,0,0,0.0,0
+D073,Client,check balance please.,0,0,0.0,0
+D074,Client,update address please.,0,0,0.0,0
+D074,Client,check balance please.,0,0,0.0,0
+D074,Client,statement please please.,0,0,0.33,0
+D074,Agent,Processing request.,0,0,0.0,0
+D074,Client,check balance please.,0,0,0.0,0
+D074,Client,update address please.,0,0,0.0,0
+D074,Agent,Verify details?,0,0,0.0,0
+D075,Client,statement please please.,0,0,0.33,0
+D075,Agent,Processing request.,0,0,0.0,0
+D075,Client,update address please.,0,0,0.0,0
+D075,Client,check balance please.,0,0,0.0,0
+D075,Client,change phone number please.,0,0,0.0,0
+D075,Agent,Verify details?,0,0,0.0,0
+D075,Client,change phone number please.,0,0,0.0,0
+D075,Agent,Account confirmed.,0,0,0.0,0
+D076,Client,check balance please.,0,0,0.0,0
+D076,Client,statement please please.,0,0,0.33,0
+D076,Client,change phone number please.,0,0,0.0,0
+D076,Agent,Account confirmed.,0,0,0.0,0
+D076,Client,recent transactions please.,0,0,0.0,0
+D076,Client,statement please please.,0,0,0.33,0
+D076,Client,statement please please.,0,0,0.33,0
+D076,Client,change phone number please.,0,0,0.0,0
+D076,Agent,Can you confirm the amount?,0,0,0.0,0
+D076,Client,recent transactions please.,0,0,0.0,0
+D076,Client,statement please please.,0,0,0.33,0
+D077,Client,check balance please.,0,0,0.0,0
+D077,Agent,Which account number?,0,0,0.0,0
+D077,Client,statement please please.,0,0,0.33,0
+D077,Agent,Can you confirm the amount?,0,0,0.0,0
+D077,Client,change phone number please.,0,0,0.0,0
+D077,Agent,Verify details?,0,0,0.0,0
+D077,Client,check balance please.,0,0,0.0,0
+D077,Agent,Security check required.,0,0,0.0,0
+D077,Agent,Account confirmed.,0,0,0.0,0
+D077,Client,recent transactions please.,0,0,0.0,0
+D077,Client,change phone number please.,0,0,0.0,0
+D077,Client,update address please.,0,0,0.0,0
+D078,Client,check balance please.,0,0,0.0,0
+D078,Client,recent transactions please.,0,0,0.0,0
+D078,Agent,Account confirmed.,0,0,0.0,0
+D078,Client,statement please please.,0,0,0.33,0
+D078,Agent,Account confirmed.,0,0,0.0,0
+D078,Client,update address please.,0,0,0.0,0
+D078,Agent,Which account number?,0,0,0.0,0
+D078,Client,check balance please.,0,0,0.0,0
+D078,Agent,Which account number?,0,0,0.0,0
+D078,Agent,Can you confirm the amount?,0,0,0.0,0
+D079,Client,statement please please.,0,0,0.33,0
+D079,Client,statement please please.,0,0,0.33,0
+D079,Agent,Account confirmed.,0,0,0.0,0
+D079,Client,statement please please.,0,0,0.33,0
+D079,Client,update address please.,0,0,0.0,0
+D079,Client,recent transactions please.,0,0,0.0,0
+D079,Agent,Which account number?,0,0,0.0,0
+D079,Agent,Can you confirm the amount?,0,0,0.0,0
+D080,Agent,Security check required.,0,0,0.0,0
+D080,Agent,Which account number?,0,0,0.0,0
+D080,Client,recent transactions please.,0,0,0.0,0
+D080,Client,recent transactions please.,0,0,0.0,0
+D080,Client,update address please.,0,0,0.0,0
+D080,Agent,Can you confirm the amount?,0,0,0.0,0
+D080,Agent,Account confirmed.,0,0,0.0,0
+D081,Agent,Security check required.,0,0,0.0,1
+D081,Agent,Security check required.,0,0,0.0,1
+D081,Agent,Processing request.,0,0,0.0,1
+D081,Client,send now to this account possibly $18631 to vendor.,1,1,0.0,1
+D081,Agent,Which account number?,0,0,0.0,1
+D081,Agent,Account confirmed.,0,0,0.0,1
+D081,Agent,Which account number?,0,0,0.0,1
+D081,Client,send now to this account $24737 to vendor.,0,1,0.0,1
+D082,Agent,Security check required.,0,0,0.0,0
+D082,Client,recent transactions please.,0,0,0.0,0
+D082,Agent,Verify details?,0,0,0.0,0
+D082,Client,change phone number please.,0,0,0.0,0
+D082,Client,update address please.,0,0,0.0,0
+D082,Agent,Account confirmed.,0,0,0.0,0
+D082,Client,check balance please.,0,0,0.0,0
+D082,Client,recent transactions please.,0,0,0.0,0
+D082,Agent,Can you confirm the amount?,0,0,0.0,0
+D083,Client,check balance please.,0,0,0.0,0
+D083,Agent,Processing request.,0,0,0.0,0
+D083,Agent,Which account number?,0,0,0.0,0
+D083,Agent,Can you confirm the amount?,0,0,0.0,0
+D083,Client,change phone number please.,0,0,0.0,0
+D083,Client,update address please.,0,0,0.0,0
+D083,Agent,Processing request.,0,0,0.0,0
+D083,Agent,Processing request.,0,0,0.0,0
+D083,Agent,Can you confirm the amount?,0,0,0.0,0
+D083,Agent,Can you confirm the amount?,0,0,0.0,0
+D083,Agent,Which account number?,0,0,0.0,0
+D083,Client,change phone number please.,0,0,0.0,0
+D084,Agent,Security check required.,0,0,0.0,0
+D084,Agent,Which account number?,0,0,0.0,0
+D084,Agent,Account confirmed.,0,0,0.0,0
+D084,Agent,Which account number?,0,0,0.0,0
+D084,Agent,Processing request.,0,0,0.0,0
+D084,Agent,Processing request.,0,0,0.0,0
+D084,Agent,Can you confirm the amount?,0,0,0.0,0
+D084,Client,recent transactions please.,0,0,0.0,0
+D084,Client,update address please.,0,0,0.0,0
+D084,Client,check balance please.,0,0,0.0,0
+D084,Client,recent transactions please.,0,0,0.0,0
+D085,Agent,Can you confirm the amount?,0,0,0.0,0
+D085,Agent,Security check required.,0,0,0.0,0
+D085,Client,check balance please.,0,0,0.0,0
+D085,Client,update address please.,0,0,0.0,0
+D085,Client,update address please.,0,0,0.0,0
+D085,Client,update address please.,0,0,0.0,0
+D085,Client,update address please.,0,0,0.0,0
+D085,Client,recent transactions please.,0,0,0.0,0
+D085,Agent,Can you confirm the amount?,0,0,0.0,0
+D085,Agent,Security check required.,0,0,0.0,0
+D085,Client,statement please please.,0,0,0.33,0
+D085,Agent,Account confirmed.,0,0,0.0,0
+D086,Agent,Verify details?,0,0,0.0,0
+D086,Agent,Which account number?,0,0,0.0,0
+D086,Agent,Which account number?,0,0,0.0,0
+D086,Client,change phone number please.,0,0,0.0,0
+D086,Agent,Which account number?,0,0,0.0,0
+D086,Agent,Which account number?,0,0,0.0,0
+D086,Client,recent transactions please.,0,0,0.0,0
+D086,Agent,Which account number?,0,0,0.0,0
+D086,Agent,Can you confirm the amount?,0,0,0.0,0
+D086,Client,update address please.,0,0,0.0,0
+D086,Agent,Processing request.,0,0,0.0,0
+D087,Client,recent transactions please.,0,0,0.0,0
+D087,Agent,Processing request.,0,0,0.0,0
+D087,Agent,Account confirmed.,0,0,0.0,0
+D087,Client,statement please please.,0,0,0.33,0
+D087,Client,update address please.,0,0,0.0,0
+D087,Client,update address please.,0,0,0.0,0
+D088,Client,statement please please.,0,0,0.33,0
+D088,Client,update address please.,0,0,0.0,0
+D088,Agent,Which account number?,0,0,0.0,0
+D088,Client,update address please.,0,0,0.0,0
+D088,Client,update address please.,0,0,0.0,0
+D088,Client,statement please please.,0,0,0.33,0
+D089,Client,statement please please.,0,0,0.33,0
+D089,Client,change phone number please.,0,0,0.0,0
+D089,Agent,Processing request.,0,0,0.0,0
+D089,Client,update address please.,0,0,0.0,0
+D089,Client,statement please please.,0,0,0.33,0
+D089,Client,recent transactions please.,0,0,0.0,0
+D089,Agent,Verify details?,0,0,0.0,0
+D089,Agent,Security check required.,0,0,0.0,0
+D089,Agent,Verify details?,0,0,0.0,0
+D089,Agent,Verify details?,0,0,0.0,0
+D089,Agent,Can you confirm the amount?,0,0,0.0,0
+D089,Client,update address please.,0,0,0.0,0
+D090,Client,recent transactions please.,0,0,0.0,0
+D090,Client,statement please please.,0,0,0.33,0
+D090,Client,check balance please.,0,0,0.0,0
+D090,Agent,Account confirmed.,0,0,0.0,0
+D090,Client,change phone number please.,0,0,0.0,0
+D090,Client,change phone number please.,0,0,0.0,0
+D090,Agent,Can you confirm the amount?,0,0,0.0,0
+D091,Agent,Security check required.,0,0,0.0,0
+D091,Agent,Can you confirm the amount?,0,0,0.0,0
+D091,Agent,Account confirmed.,0,0,0.0,0
+D091,Client,update address please.,0,0,0.0,0
+D091,Client,change phone number please.,0,0,0.0,0
+D091,Agent,Can you confirm the amount?,0,0,0.0,0
+D091,Client,update address please.,0,0,0.0,0
+D091,Client,recent transactions please.,0,0,0.0,0
+D092,Client,recent transactions please.,0,0,0.0,0
+D092,Agent,Processing request.,0,0,0.0,0
+D092,Client,recent transactions please.,0,0,0.0,0
+D092,Client,change phone number please.,0,0,0.0,0
+D092,Agent,Account confirmed.,0,0,0.0,0
+D092,Client,change phone number please.,0,0,0.0,0
+D092,Client,statement please please.,0,0,0.33,0
+D093,Agent,Account confirmed.,0,0,0.0,0
+D093,Agent,Security check required.,0,0,0.0,0
+D093,Client,recent transactions please.,0,0,0.0,0
+D093,Client,change phone number please.,0,0,0.0,0
+D093,Client,check balance please.,0,0,0.0,0
+D093,Client,recent transactions please.,0,0,0.0,0
+D093,Client,check balance please.,0,0,0.0,0
+D093,Agent,Security check required.,0,0,0.0,0
+D093,Client,statement please please.,0,0,0.33,0
+D093,Agent,Processing request.,0,0,0.0,0
+D093,Client,check balance please.,0,0,0.0,0
+D094,Client,statement please please.,0,0,0.33,0
+D094,Client,change phone number please.,0,0,0.0,0
+D094,Agent,Processing request.,0,0,0.0,0
+D094,Client,change phone number please.,0,0,0.0,0
+D094,Agent,Security check required.,0,0,0.0,0
+D094,Client,check balance please.,0,0,0.0,0
+D094,Client,update address please.,0,0,0.0,0
+D094,Agent,Verify details?,0,0,0.0,0
+D094,Agent,Account confirmed.,0,0,0.0,0
+D095,Client,statement please please.,0,0,0.33,0
+D095,Agent,Account confirmed.,0,0,0.0,0
+D095,Client,update address please.,0,0,0.0,0
+D095,Agent,Account confirmed.,0,0,0.0,0
+D095,Client,update address please.,0,0,0.0,0
+D095,Client,recent transactions please.,0,0,0.0,0
+D095,Agent,Account confirmed.,0,0,0.0,0
+D095,Agent,Verify details?,0,0,0.0,0
+D095,Agent,Processing request.,0,0,0.0,0
+D095,Agent,Account confirmed.,0,0,0.0,0
+D095,Client,change phone number please.,0,0,0.0,0
+D096,Client,recent transactions please.,0,0,0.0,0
+D096,Agent,Security check required.,0,0,0.0,0
+D096,Agent,Processing request.,0,0,0.0,0
+D096,Agent,Processing request.,0,0,0.0,0
+D096,Agent,Verify details?,0,0,0.0,0
+D096,Client,check balance please.,0,0,0.0,0
+D096,Client,recent transactions please.,0,0,0.0,0
+D097,Agent,Which account number?,0,0,0.0,0
+D097,Client,check balance please.,0,0,0.0,0
+D097,Agent,Can you confirm the amount?,0,0,0.0,0
+D097,Agent,Can you confirm the amount?,0,0,0.0,0
+D097,Client,check balance please.,0,0,0.0,0
+D097,Agent,Security check required.,0,0,0.0,0
+D097,Agent,Security check required.,0,0,0.0,0
+D097,Client,statement please please.,0,0,0.33,0
+D097,Client,update address please.,0,0,0.0,0
+D097,Client,update address please.,0,0,0.0,0
+D097,Client,update address please.,0,0,0.0,0
+D097,Client,check balance please.,0,0,0.0,0
+D098,Agent,Can you confirm the amount?,0,0,0.0,0
+D098,Client,check balance please.,0,0,0.0,0
+D098,Client,change phone number please.,0,0,0.0,0
+D098,Agent,Can you confirm the amount?,0,0,0.0,0
+D098,Agent,Processing request.,0,0,0.0,0
+D098,Agent,Security check required.,0,0,0.0,0
+D098,Agent,Security check required.,0,0,0.0,0
+D099,Client,change phone number please.,0,0,0.0,0
+D099,Agent,Account confirmed.,0,0,0.0,0
+D099,Agent,Which account number?,0,0,0.0,0
+D099,Agent,Processing request.,0,0,0.0,0
+D099,Client,check balance please.,0,0,0.0,0
+D099,Client,update address please.,0,0,0.0,0
+D099,Agent,Verify details?,0,0,0.0,0
+D099,Client,change phone number please.,0,0,0.0,0
+D099,Agent,Verify details?,0,0,0.0,0
+D100,Agent,Account confirmed.,0,0,0.0,0
+D100,Agent,Can you confirm the amount?,0,0,0.0,0
+D100,Agent,Can you confirm the amount?,0,0,0.0,0
+D100,Agent,Can you confirm the amount?,0,0,0.0,0
+D100,Client,recent transactions please.,0,0,0.0,0
+D100,Agent,Can you confirm the amount?,0,0,0.0,0
+D100,Client,change phone number please.,0,0,0.0,0
+D101,Client,check balance please.,0,0,0.0,0
+D101,Agent,Account confirmed.,0,0,0.0,0
+D101,Client,statement please please.,0,0,0.33,0
+D101,Client,update address please.,0,0,0.0,0
+D101,Agent,Processing request.,0,0,0.0,0
+D101,Agent,Account confirmed.,0,0,0.0,0
+D101,Agent,Can you confirm the amount?,0,0,0.0,0
+D101,Agent,Verify details?,0,0,0.0,0
+D101,Agent,Which account number?,0,0,0.0,0
+D101,Client,check balance please.,0,0,0.0,0
+D101,Agent,Which account number?,0,0,0.0,0
+D101,Client,statement please please.,0,0,0.33,0
+D102,Client,change phone number please.,0,0,0.0,0
+D102,Client,change phone number please.,0,0,0.0,0
+D102,Client,check balance please.,0,0,0.0,0
+D102,Agent,Security check required.,0,0,0.0,0
+D102,Agent,Which account number?,0,0,0.0,0
+D102,Agent,Can you confirm the amount?,0,0,0.0,0
+D102,Agent,Processing request.,0,0,0.0,0
+D102,Client,recent transactions please.,0,0,0.0,0
+D102,Agent,Processing request.,0,0,0.0,0
+D103,Client,recent transactions please.,0,0,0.0,0
+D103,Client,update address please.,0,0,0.0,0
+D103,Agent,Account confirmed.,0,0,0.0,0
+D103,Client,statement please please.,0,0,0.33,0
+D103,Agent,Account confirmed.,0,0,0.0,0
+D103,Agent,Which account number?,0,0,0.0,0
+D103,Client,statement please please.,0,0,0.33,0
+D103,Agent,Account confirmed.,0,0,0.0,0
+D103,Agent,Security check required.,0,0,0.0,0
+D103,Client,change phone number please.,0,0,0.0,0
+D103,Client,statement please please.,0,0,0.33,0
+D104,Agent,Account confirmed.,0,0,0.0,0
+D104,Agent,Can you confirm the amount?,0,0,0.0,0
+D104,Agent,Verify details?,0,0,0.0,0
+D104,Client,check balance please.,0,0,0.0,0
+D104,Agent,Verify details?,0,0,0.0,0
+D104,Client,recent transactions please.,0,0,0.0,0
+D104,Client,statement please please.,0,0,0.33,0
+D104,Agent,Can you confirm the amount?,0,0,0.0,0
+D104,Client,check balance please.,0,0,0.0,0
+D104,Agent,Security check required.,0,0,0.0,0
+D104,Agent,Processing request.,0,0,0.0,0
+D105,Agent,Which account number?,0,0,0.0,0
+D105,Client,change phone number please.,0,0,0.0,0
+D105,Client,statement please please.,0,0,0.33,0
+D105,Agent,Can you confirm the amount?,0,0,0.0,0
+D105,Agent,Can you confirm the amount?,0,0,0.0,0
+D105,Client,check balance please.,0,0,0.0,0
+D105,Client,check balance please.,0,0,0.0,0
+D105,Client,recent transactions please.,0,0,0.0,0
+D105,Agent,Which account number?,0,0,0.0,0
+D106,Client,change phone number please.,0,0,0.0,0
+D106,Agent,Security check required.,0,0,0.0,0
+D106,Client,change phone number please.,0,0,0.0,0
+D106,Client,statement please please.,0,0,0.33,0
+D106,Agent,Security check required.,0,0,0.0,0
+D106,Agent,Which account number?,0,0,0.0,0
+D107,Client,update address please.,0,0,0.0,0
+D107,Agent,Which account number?,0,0,0.0,0
+D107,Agent,Which account number?,0,0,0.0,0
+D107,Client,check balance please.,0,0,0.0,0
+D107,Client,update address please.,0,0,0.0,0
+D107,Client,check balance please.,0,0,0.0,0
+D108,Client,update address please.,0,0,0.0,0
+D108,Client,change phone number please.,0,0,0.0,0
+D108,Client,update address please.,0,0,0.0,0
+D108,Agent,Security check required.,0,0,0.0,0
+D108,Agent,Security check required.,0,0,0.0,0
+D108,Agent,Can you confirm the amount?,0,0,0.0,0
+D108,Agent,Can you confirm the amount?,0,0,0.0,0
+D108,Client,check balance please.,0,0,0.0,0
+D108,Agent,Security check required.,0,0,0.0,0
+D108,Client,change phone number please.,0,0,0.0,0
+D109,Agent,Security check required.,0,0,0.0,0
+D109,Client,recent transactions please.,0,0,0.0,0
+D109,Agent,Account confirmed.,0,0,0.0,0
+D109,Client,statement please please.,0,0,0.33,0
+D109,Agent,Verify details?,0,0,0.0,0
+D109,Agent,Processing request.,0,0,0.0,0
+D110,Client,recent transactions please.,0,0,0.0,0
+D110,Agent,Account confirmed.,0,0,0.0,0
+D110,Agent,Account confirmed.,0,0,0.0,0
+D110,Client,check balance please.,0,0,0.0,0
+D110,Client,change phone number please.,0,0,0.0,0
+D110,Agent,Account confirmed.,0,0,0.0,0
+D111,Client,check balance please.,0,0,0.0,0
+D111,Agent,Which account number?,0,0,0.0,0
+D111,Agent,Verify details?,0,0,0.0,0
+D111,Client,change phone number please.,0,0,0.0,0
+D111,Agent,Verify details?,0,0,0.0,0
+D111,Agent,Account confirmed.,0,0,0.0,0
+D111,Agent,Can you confirm the amount?,0,0,0.0,0
+D111,Agent,Verify details?,0,0,0.0,0
+D111,Client,statement please please.,0,0,0.33,0
+D112,Client,update address please.,0,0,0.0,0
+D112,Agent,Can you confirm the amount?,0,0,0.0,0
+D112,Client,statement please please.,0,0,0.33,0
+D112,Agent,Processing request.,0,0,0.0,0
+D112,Client,change phone number please.,0,0,0.0,0
+D112,Client,change phone number please.,0,0,0.0,0
+D112,Client,change phone number please.,0,0,0.0,0
+D112,Agent,Which account number?,0,0,0.0,0
+D113,Client,update address please.,0,0,0.0,0
+D113,Agent,Processing request.,0,0,0.0,0
+D113,Client,change phone number please.,0,0,0.0,0
+D113,Client,update address please.,0,0,0.0,0
+D113,Client,update address please.,0,0,0.0,0
+D113,Agent,Processing request.,0,0,0.0,0
+D113,Agent,Account confirmed.,0,0,0.0,0
+D113,Client,recent transactions please.,0,0,0.0,0
+D114,Agent,Security check required.,0,0,0.0,0
+D114,Client,change phone number please.,0,0,0.0,0
+D114,Client,update address please.,0,0,0.0,0
+D114,Client,check balance please.,0,0,0.0,0
+D114,Client,update address please.,0,0,0.0,0
+D114,Client,recent transactions please.,0,0,0.0,0
+D114,Agent,Verify details?,0,0,0.0,0
+D114,Client,recent transactions please.,0,0,0.0,0
+D114,Agent,Account confirmed.,0,0,0.0,0
+D114,Agent,Processing request.,0,0,0.0,0
+D115,Client,update address please.,0,0,0.0,0
+D115,Agent,Which account number?,0,0,0.0,0
+D115,Agent,Account confirmed.,0,0,0.0,0
+D115,Agent,Which account number?,0,0,0.0,0
+D115,Client,change phone number please.,0,0,0.0,0
+D115,Agent,Verify details?,0,0,0.0,0
+D115,Client,check balance please.,0,0,0.0,0
+D115,Agent,Can you confirm the amount?,0,0,0.0,0
+D115,Client,statement please please.,0,0,0.33,0
+D116,Client,urgent transfer $19608 to supplier.,0,1,-0.2,1
+D116,Agent,Verify details?,0,0,0.0,1
+D116,Agent,Which account number?,0,0,0.0,1
+D116,Client,it's an emergency possibly $23172 to new account.,1,0,-0.12,1
+D116,Client,maybe tomorrow if not I think $14829 to new account.,1,0,0.0,1
+D116,Agent,Account confirmed.,0,0,0.0,1
+D116,Client,maybe tomorrow if not $20457 to friend.,1,0,0.0,1
+D116,Agent,Can you confirm the amount?,0,0,0.0,1
+D116,Agent,Verify details?,0,0,0.0,1
+D116,Agent,Can you confirm the amount?,0,0,0.0,1
+D117,Agent,Security check required.,0,0,0.0,0
+D117,Client,change phone number please.,0,0,0.0,0
+D117,Client,change phone number please.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Agent,Security check required.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Agent,Account confirmed.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Client,recent transactions please.,0,0,0.0,0
+D117,Agent,Can you confirm the amount?,0,0,0.0,0
+D118,Agent,Security check required.,0,0,0.0,1
+D118,Client,send now to this account I think $20491 to vendor.,0,1,0.0,1
+D118,Client,urgent transfer $18753 to vendor.,0,1,-0.2,1
+D118,Client,need to move money quickly $20836 to new account.,0,1,0.0,1
+D118,Client,send now to this account possibly $12466 to vendor.,1,1,0.0,1
+D118,Client,it's an emergency sort of $10426 to friend.,1,0,-0.12,1
+D118,Client,it's an emergency $7036 to friend.,0,0,-0.17,1
+D118,Agent,Account confirmed.,0,0,0.0,1
+D118,Client,send now to this account I think $6493 to vendor.,0,1,0.0,1
+D118,Agent,Processing request.,0,0,0.0,1
+D118,Agent,Security check required.,0,0,0.0,1
+D118,Agent,Processing request.,0,0,0.0,1
+D119,Client,check balance please.,0,0,0.0,0
+D119,Client,recent transactions please.,0,0,0.0,0
+D119,Client,change phone number please.,0,0,0.0,0
+D119,Client,change phone number please.,0,0,0.0,0
+D119,Client,change phone number please.,0,0,0.0,0
+D119,Client,change phone number please.,0,0,0.0,0
+D120,Agent,Account confirmed.,0,0,0.0,0
+D120,Client,update address please.,0,0,0.0,0
+D120,Client,statement please please.,0,0,0.33,0
+D120,Agent,Security check required.,0,0,0.0,0
+D120,Agent,Account confirmed.,0,0,0.0,0
+D120,Client,update address please.,0,0,0.0,0
+D120,Client,change phone number please.,0,0,0.0,0
+D120,Client,update address please.,0,0,0.0,0
+D120,Agent,Verify details?,0,0,0.0,0
+D120,Agent,Verify details?,0,0,0.0,0
+D120,Client,recent transactions please.,0,0,0.0,0
+D120,Client,check balance please.,0,0,0.0,0
+D121,Agent,Can you confirm the amount?,0,0,0.0,0
+D121,Agent,Account confirmed.,0,0,0.0,0
+D121,Agent,Account confirmed.,0,0,0.0,0
+D121,Agent,Security check required.,0,0,0.0,0
+D121,Agent,Account confirmed.,0,0,0.0,0
+D121,Agent,Which account number?,0,0,0.0,0
+D122,Client,statement please please.,0,0,0.33,0
+D122,Agent,Processing request.,0,0,0.0,0
+D122,Agent,Security check required.,0,0,0.0,0
+D122,Agent,Can you confirm the amount?,0,0,0.0,0
+D122,Client,recent transactions please.,0,0,0.0,0
+D122,Agent,Verify details?,0,0,0.0,0
+D123,Agent,Processing request.,0,0,0.0,0
+D123,Agent,Can you confirm the amount?,0,0,0.0,0
+D123,Agent,Which account number?,0,0,0.0,0
+D123,Agent,Can you confirm the amount?,0,0,0.0,0
+D123,Agent,Processing request.,0,0,0.0,0
+D123,Agent,Processing request.,0,0,0.0,0
+D123,Client,change phone number please.,0,0,0.0,0
+D124,Client,check balance please.,0,0,0.0,0
+D124,Agent,Security check required.,0,0,0.0,0
+D124,Agent,Processing request.,0,0,0.0,0
+D124,Agent,Which account number?,0,0,0.0,0
+D124,Agent,Account confirmed.,0,0,0.0,0
+D124,Client,statement please please.,0,0,0.33,0
+D124,Client,recent transactions please.,0,0,0.0,0
+D124,Client,check balance please.,0,0,0.0,0
+D124,Agent,Account confirmed.,0,0,0.0,0
+D124,Agent,Security check required.,0,0,0.0,0
+D125,Agent,Which account number?,0,0,0.0,0
+D125,Agent,Account confirmed.,0,0,0.0,0
+D125,Agent,Processing request.,0,0,0.0,0
+D125,Agent,Which account number?,0,0,0.0,0
+D125,Client,change phone number please.,0,0,0.0,0
+D125,Client,recent transactions please.,0,0,0.0,0
+D126,Client,check balance please.,0,0,0.0,0
+D126,Client,change phone number please.,0,0,0.0,0
+D126,Client,check balance please.,0,0,0.0,0
+D126,Agent,Can you confirm the amount?,0,0,0.0,0
+D126,Client,recent transactions please.,0,0,0.0,0
+D126,Client,statement please please.,0,0,0.33,0
+D126,Agent,Can you confirm the amount?,0,0,0.0,0
+D126,Agent,Security check required.,0,0,0.0,0
+D126,Agent,Security check required.,0,0,0.0,0
+D126,Client,change phone number please.,0,0,0.0,0
+D126,Client,check balance please.,0,0,0.0,0
+D126,Client,check balance please.,0,0,0.0,0
+D127,Agent,Verify details?,0,0,0.0,0
+D127,Agent,Verify details?,0,0,0.0,0
+D127,Agent,Processing request.,0,0,0.0,0
+D127,Agent,Can you confirm the amount?,0,0,0.0,0
+D127,Client,update address please.,0,0,0.0,0
+D127,Client,recent transactions please.,0,0,0.0,0
+D127,Client,recent transactions please.,0,0,0.0,0
+D127,Agent,Processing request.,0,0,0.0,0
+D127,Client,update address please.,0,0,0.0,0
+D127,Client,check balance please.,0,0,0.0,0
+D127,Agent,Which account number?,0,0,0.0,0
+D127,Client,statement please please.,0,0,0.33,0
+D128,Agent,Account confirmed.,0,0,0.0,0
+D128,Client,recent transactions please.,0,0,0.0,0
+D128,Client,change phone number please.,0,0,0.0,0
+D128,Agent,Processing request.,0,0,0.0,0
+D128,Agent,Verify details?,0,0,0.0,0
+D128,Agent,Verify details?,0,0,0.0,0
+D128,Client,statement please please.,0,0,0.33,0
+D128,Agent,Security check required.,0,0,0.0,0
+D128,Client,change phone number please.,0,0,0.0,0
+D128,Agent,Verify details?,0,0,0.0,0
+D129,Agent,Which account number?,0,0,0.0,0
+D129,Agent,Can you confirm the amount?,0,0,0.0,0
+D129,Client,change phone number please.,0,0,0.0,0
+D129,Agent,Which account number?,0,0,0.0,0
+D129,Client,check balance please.,0,0,0.0,0
+D129,Agent,Can you confirm the amount?,0,0,0.0,0
+D129,Agent,Can you confirm the amount?,0,0,0.0,0
+D129,Agent,Account confirmed.,0,0,0.0,0
+D130,Client,update address please.,0,0,0.0,0
+D130,Client,change phone number please.,0,0,0.0,0
+D130,Agent,Verify details?,0,0,0.0,0
+D130,Agent,Processing request.,0,0,0.0,0
+D130,Agent,Security check required.,0,0,0.0,0
+D130,Agent,Which account number?,0,0,0.0,0
+D130,Client,update address please.,0,0,0.0,0
+D131,Agent,Account confirmed.,0,0,0.0,0
+D131,Agent,Processing request.,0,0,0.0,0
+D131,Client,statement please please.,0,0,0.33,0
+D131,Client,update address please.,0,0,0.0,0
+D131,Client,update address please.,0,0,0.0,0
+D131,Client,recent transactions please.,0,0,0.0,0
+D131,Agent,Can you confirm the amount?,0,0,0.0,0
+D131,Agent,Account confirmed.,0,0,0.0,0
+D131,Client,change phone number please.,0,0,0.0,0
+D131,Client,statement please please.,0,0,0.33,0
+D132,Agent,Account confirmed.,0,0,0.0,0
+D132,Agent,Processing request.,0,0,0.0,0
+D132,Client,update address please.,0,0,0.0,0
+D132,Client,recent transactions please.,0,0,0.0,0
+D132,Agent,Processing request.,0,0,0.0,0
+D132,Agent,Verify details?,0,0,0.0,0
+D132,Client,change phone number please.,0,0,0.0,0
+D132,Agent,Processing request.,0,0,0.0,0
+D133,Client,recent transactions please.,0,0,0.0,0
+D133,Agent,Which account number?,0,0,0.0,0
+D133,Agent,Security check required.,0,0,0.0,0
+D133,Client,update address please.,0,0,0.0,0
+D133,Client,update address please.,0,0,0.0,0
+D133,Agent,Security check required.,0,0,0.0,0
+D133,Agent,Security check required.,0,0,0.0,0
+D133,Agent,Processing request.,0,0,0.0,0
+D133,Client,statement please please.,0,0,0.33,0
+D133,Client,recent transactions please.,0,0,0.0,0
+D134,Client,check balance please.,0,0,0.0,0
+D134,Client,recent transactions please.,0,0,0.0,0
+D134,Client,update address please.,0,0,0.0,0
+D134,Agent,Account confirmed.,0,0,0.0,0
+D134,Agent,Verify details?,0,0,0.0,0
+D134,Client,change phone number please.,0,0,0.0,0
+D134,Client,change phone number please.,0,0,0.0,0
+D134,Client,statement please please.,0,0,0.33,0
+D134,Agent,Can you confirm the amount?,0,0,0.0,0
+D134,Agent,Can you confirm the amount?,0,0,0.0,0
+D135,Client,recent transactions please.,0,0,0.0,0
+D135,Client,update address please.,0,0,0.0,0
+D135,Agent,Account confirmed.,0,0,0.0,0
+D135,Client,update address please.,0,0,0.0,0
+D135,Client,check balance please.,0,0,0.0,0
+D135,Client,statement please please.,0,0,0.33,0
+D135,Agent,Which account number?,0,0,0.0,0
+D135,Agent,Verify details?,0,0,0.0,0
+D135,Agent,Security check required.,0,0,0.0,0
+D136,Agent,Which account number?,0,0,0.0,0
+D136,Agent,Security check required.,0,0,0.0,0
+D136,Client,recent transactions please.,0,0,0.0,0
+D136,Agent,Verify details?,0,0,0.0,0
+D136,Client,check balance please.,0,0,0.0,0
+D136,Client,check balance please.,0,0,0.0,0
+D136,Client,update address please.,0,0,0.0,0
+D136,Agent,Processing request.,0,0,0.0,0
+D136,Agent,Processing request.,0,0,0.0,0
+D136,Agent,Security check required.,0,0,0.0,0
+D137,Client,statement please please.,0,0,0.33,0
+D137,Client,recent transactions please.,0,0,0.0,0
+D137,Client,update address please.,0,0,0.0,0
+D137,Agent,Verify details?,0,0,0.0,0
+D137,Client,statement please please.,0,0,0.33,0
+D137,Client,statement please please.,0,0,0.33,0
+D137,Agent,Verify details?,0,0,0.0,0
+D137,Client,statement please please.,0,0,0.33,0
+D137,Agent,Security check required.,0,0,0.0,0
+D137,Client,recent transactions please.,0,0,0.0,0
+D137,Agent,Verify details?,0,0,0.0,0
+D138,Agent,Security check required.,0,0,0.0,0
+D138,Agent,Which account number?,0,0,0.0,0
+D138,Agent,Security check required.,0,0,0.0,0
+D138,Client,update address please.,0,0,0.0,0
+D138,Client,recent transactions please.,0,0,0.0,0
+D138,Agent,Account confirmed.,0,0,0.0,0
+D138,Client,change phone number please.,0,0,0.0,0
+D138,Agent,Account confirmed.,0,0,0.0,0
+D138,Client,recent transactions please.,0,0,0.0,0
+D138,Agent,Which account number?,0,0,0.0,0
+D138,Agent,Processing request.,0,0,0.0,0
+D139,Agent,Account confirmed.,0,0,0.0,0
+D139,Agent,Account confirmed.,0,0,0.0,0
+D139,Agent,Can you confirm the amount?,0,0,0.0,0
+D139,Agent,Processing request.,0,0,0.0,0
+D139,Client,change phone number please.,0,0,0.0,0
+D139,Agent,Can you confirm the amount?,0,0,0.0,0
+D139,Client,check balance please.,0,0,0.0,0
+D139,Client,recent transactions please.,0,0,0.0,0
+D139,Client,update address please.,0,0,0.0,0
+D139,Agent,Verify details?,0,0,0.0,0
+D139,Agent,Security check required.,0,0,0.0,0
+D140,Client,check balance please.,0,0,0.0,0
+D140,Client,recent transactions please.,0,0,0.0,0
+D140,Agent,Processing request.,0,0,0.0,0
+D140,Client,change phone number please.,0,0,0.0,0
+D140,Client,statement please please.,0,0,0.33,0
+D140,Client,update address please.,0,0,0.0,0
+D140,Agent,Security check required.,0,0,0.0,0
+D140,Client,check balance please.,0,0,0.0,0
+D140,Agent,Verify details?,0,0,0.0,0
+D140,Agent,Can you confirm the amount?,0,0,0.0,0
+D141,Client,statement please please.,0,0,0.33,0
+D141,Agent,Account confirmed.,0,0,0.0,0
+D141,Client,update address please.,0,0,0.0,0
+D141,Agent,Verify details?,0,0,0.0,0
+D141,Client,update address please.,0,0,0.0,0
+D141,Client,statement please please.,0,0,0.33,0
+D141,Client,change phone number please.,0,0,0.0,0
+D141,Agent,Can you confirm the amount?,0,0,0.0,0
+D142,Client,statement please please.,0,0,0.33,0
+D142,Agent,Processing request.,0,0,0.0,0
+D142,Agent,Account confirmed.,0,0,0.0,0
+D142,Client,statement please please.,0,0,0.33,0
+D142,Agent,Processing request.,0,0,0.0,0
+D142,Client,change phone number please.,0,0,0.0,0
+D142,Client,update address please.,0,0,0.0,0
+D143,Agent,Security check required.,0,0,0.0,0
+D143,Client,statement please please.,0,0,0.33,0
+D143,Client,statement please please.,0,0,0.33,0
+D143,Client,update address please.,0,0,0.0,0
+D143,Client,recent transactions please.,0,0,0.0,0
+D143,Agent,Can you confirm the amount?,0,0,0.0,0
+D143,Client,check balance please.,0,0,0.0,0
+D143,Agent,Which account number?,0,0,0.0,0
+D143,Client,update address please.,0,0,0.0,0
+D143,Agent,Account confirmed.,0,0,0.0,0
+D144,Client,change phone number please.,0,0,0.0,0
+D144,Agent,Verify details?,0,0,0.0,0
+D144,Agent,Security check required.,0,0,0.0,0
+D144,Client,recent transactions please.,0,0,0.0,0
+D144,Agent,Security check required.,0,0,0.0,0
+D144,Client,check balance please.,0,0,0.0,0
+D144,Agent,Security check required.,0,0,0.0,0
+D144,Agent,Processing request.,0,0,0.0,0
+D144,Agent,Processing request.,0,0,0.0,0
+D145,Agent,Security check required.,0,0,0.0,0
+D145,Agent,Can you confirm the amount?,0,0,0.0,0
+D145,Agent,Which account number?,0,0,0.0,0
+D145,Agent,Verify details?,0,0,0.0,0
+D145,Agent,Which account number?,0,0,0.0,0
+D145,Client,update address please.,0,0,0.0,0
+D145,Agent,Security check required.,0,0,0.0,0
+D145,Client,change phone number please.,0,0,0.0,0
+D145,Client,update address please.,0,0,0.0,0
+D145,Agent,Can you confirm the amount?,0,0,0.0,0
+D145,Agent,Which account number?,0,0,0.0,0
+D146,Agent,Can you confirm the amount?,0,0,0.0,0
+D146,Client,check balance please.,0,0,0.0,0
+D146,Agent,Which account number?,0,0,0.0,0
+D146,Client,statement please please.,0,0,0.33,0
+D146,Client,change phone number please.,0,0,0.0,0
+D146,Client,recent transactions please.,0,0,0.0,0
+D146,Client,change phone number please.,0,0,0.0,0
+D147,Agent,Processing request.,0,0,0.0,0
+D147,Agent,Account confirmed.,0,0,0.0,0
+D147,Agent,Processing request.,0,0,0.0,0
+D147,Client,check balance please.,0,0,0.0,0
+D147,Agent,Can you confirm the amount?,0,0,0.0,0
+D147,Client,recent transactions please.,0,0,0.0,0
+D147,Agent,Account confirmed.,0,0,0.0,0
+D147,Agent,Verify details?,0,0,0.0,0
+D147,Client,statement please please.,0,0,0.33,0
+D147,Client,statement please please.,0,0,0.33,0
+D148,Agent,Can you confirm the amount?,0,0,0.0,0
+D148,Agent,Processing request.,0,0,0.0,0
+D148,Client,recent transactions please.,0,0,0.0,0
+D148,Client,change phone number please.,0,0,0.0,0
+D148,Agent,Which account number?,0,0,0.0,0
+D148,Client,change phone number please.,0,0,0.0,0
+D148,Agent,Verify details?,0,0,0.0,0
+D148,Client,check balance please.,0,0,0.0,0
+D148,Agent,Can you confirm the amount?,0,0,0.0,0
+D148,Agent,Account confirmed.,0,0,0.0,0
+D148,Client,recent transactions please.,0,0,0.0,0
+D148,Client,check balance please.,0,0,0.0,0
+D149,Agent,Can you confirm the amount?,0,0,0.0,0
+D149,Agent,Security check required.,0,0,0.0,0
+D149,Agent,Security check required.,0,0,0.0,0
+D149,Agent,Processing request.,0,0,0.0,0
+D149,Client,change phone number please.,0,0,0.0,0
+D149,Client,recent transactions please.,0,0,0.0,0
+D149,Agent,Verify details?,0,0,0.0,0
+D150,Client,update address please.,0,0,0.0,0
+D150,Agent,Security check required.,0,0,0.0,0
+D150,Client,statement please please.,0,0,0.33,0
+D150,Agent,Security check required.,0,0,0.0,0
+D150,Client,check balance please.,0,0,0.0,0
+D150,Agent,Can you confirm the amount?,0,0,0.0,0
+D150,Agent,Processing request.,0,0,0.0,0
+D150,Client,check balance please.,0,0,0.0,0
+D150,Client,statement please please.,0,0,0.33,0
+D150,Agent,Verify details?,0,0,0.0,0
+D150,Client,statement please please.,0,0,0.33,0
+D151,Agent,Which account number?,0,0,0.0,0
+D151,Agent,Account confirmed.,0,0,0.0,0
+D151,Client,change phone number please.,0,0,0.0,0
+D151,Agent,Verify details?,0,0,0.0,0
+D151,Client,update address please.,0,0,0.0,0
+D151,Agent,Can you confirm the amount?,0,0,0.0,0
+D151,Agent,Account confirmed.,0,0,0.0,0
+D151,Agent,Can you confirm the amount?,0,0,0.0,0
+D151,Client,check balance please.,0,0,0.0,0
+D152,Client,statement please please.,0,0,0.33,0
+D152,Client,recent transactions please.,0,0,0.0,0
+D152,Client,statement please please.,0,0,0.33,0
+D152,Client,update address please.,0,0,0.0,0
+D152,Agent,Can you confirm the amount?,0,0,0.0,0
+D152,Agent,Security check required.,0,0,0.0,0
+D152,Agent,Account confirmed.,0,0,0.0,0
+D152,Client,recent transactions please.,0,0,0.0,0
+D152,Agent,Can you confirm the amount?,0,0,0.0,0
+D153,Client,recent transactions please.,0,0,0.0,0
+D153,Client,statement please please.,0,0,0.33,0
+D153,Client,change phone number please.,0,0,0.0,0
+D153,Agent,Can you confirm the amount?,0,0,0.0,0
+D153,Agent,Verify details?,0,0,0.0,0
+D153,Client,check balance please.,0,0,0.0,0
+D154,Agent,Which account number?,0,0,0.0,0
+D154,Agent,Which account number?,0,0,0.0,0
+D154,Client,recent transactions please.,0,0,0.0,0
+D154,Client,recent transactions please.,0,0,0.0,0
+D154,Agent,Security check required.,0,0,0.0,0
+D154,Client,statement please please.,0,0,0.33,0
+D154,Agent,Security check required.,0,0,0.0,0
+D154,Agent,Processing request.,0,0,0.0,0
+D154,Agent,Can you confirm the amount?,0,0,0.0,0
+D154,Agent,Can you confirm the amount?,0,0,0.0,0
+D154,Agent,Verify details?,0,0,0.0,0
+D155,Agent,Account confirmed.,0,0,0.0,0
+D155,Client,check balance please.,0,0,0.0,0
+D155,Agent,Account confirmed.,0,0,0.0,0
+D155,Agent,Verify details?,0,0,0.0,0
+D155,Client,statement please please.,0,0,0.33,0
+D155,Client,statement please please.,0,0,0.33,0
+D155,Agent,Account confirmed.,0,0,0.0,0
+D155,Client,statement please please.,0,0,0.33,0
+D156,Client,statement please please.,0,0,0.33,0
+D156,Agent,Verify details?,0,0,0.0,0
+D156,Agent,Processing request.,0,0,0.0,0
+D156,Agent,Can you confirm the amount?,0,0,0.0,0
+D156,Client,recent transactions please.,0,0,0.0,0
+D156,Agent,Processing request.,0,0,0.0,0
+D157,Agent,Account confirmed.,0,0,0.0,0
+D157,Client,statement please please.,0,0,0.33,0
+D157,Client,update address please.,0,0,0.0,0
+D157,Client,check balance please.,0,0,0.0,0
+D157,Agent,Verify details?,0,0,0.0,0
+D157,Client,change phone number please.,0,0,0.0,0
+D157,Agent,Which account number?,0,0,0.0,0
+D157,Client,change phone number please.,0,0,0.0,0
+D157,Agent,Account confirmed.,0,0,0.0,0
+D157,Agent,Verify details?,0,0,0.0,0
+D157,Agent,Can you confirm the amount?,0,0,0.0,0
+D158,Agent,Account confirmed.,0,0,0.0,0
+D158,Client,change phone number please.,0,0,0.0,0
+D158,Agent,Processing request.,0,0,0.0,0
+D158,Client,recent transactions please.,0,0,0.0,0
+D158,Agent,Account confirmed.,0,0,0.0,0
+D158,Agent,Verify details?,0,0,0.0,0
+D158,Agent,Can you confirm the amount?,0,0,0.0,0
+D158,Agent,Can you confirm the amount?,0,0,0.0,0
+D158,Client,check balance please.,0,0,0.0,0
+D158,Client,recent transactions please.,0,0,0.0,0
+D158,Client,statement please please.,0,0,0.33,0
+D158,Agent,Processing request.,0,0,0.0,0
+D159,Client,change phone number please.,0,0,0.0,0
+D159,Agent,Which account number?,0,0,0.0,0
+D159,Agent,Security check required.,0,0,0.0,0
+D159,Client,update address please.,0,0,0.0,0
+D159,Client,update address please.,0,0,0.0,0
+D159,Client,check balance please.,0,0,0.0,0
+D159,Agent,Account confirmed.,0,0,0.0,0
+D160,Client,change phone number please.,0,0,0.0,0
+D160,Agent,Verify details?,0,0,0.0,0
+D160,Agent,Processing request.,0,0,0.0,0
+D160,Agent,Can you confirm the amount?,0,0,0.0,0
+D160,Client,statement please please.,0,0,0.33,0
+D160,Client,check balance please.,0,0,0.0,0
+D160,Agent,Can you confirm the amount?,0,0,0.0,0
+D160,Client,recent transactions please.,0,0,0.0,0
+D160,Client,check balance please.,0,0,0.0,0
+D161,Client,recent transactions please.,0,0,0.0,0
+D161,Agent,Can you confirm the amount?,0,0,0.0,0
+D161,Client,change phone number please.,0,0,0.0,0
+D161,Client,recent transactions please.,0,0,0.0,0
+D161,Agent,Processing request.,0,0,0.0,0
+D161,Client,recent transactions please.,0,0,0.0,0
+D161,Client,update address please.,0,0,0.0,0
+D161,Client,check balance please.,0,0,0.0,0
+D161,Agent,Account confirmed.,0,0,0.0,0
+D161,Client,check balance please.,0,0,0.0,0
+D161,Client,change phone number please.,0,0,0.0,0
+D162,Agent,Verify details?,0,0,0.0,0
+D162,Agent,Security check required.,0,0,0.0,0
+D162,Client,change phone number please.,0,0,0.0,0
+D162,Client,recent transactions please.,0,0,0.0,0
+D162,Agent,Security check required.,0,0,0.0,0
+D162,Client,recent transactions please.,0,0,0.0,0
+D162,Agent,Account confirmed.,0,0,0.0,0
+D163,Client,update address please.,0,0,0.0,0
+D163,Client,recent transactions please.,0,0,0.0,0
+D163,Agent,Processing request.,0,0,0.0,0
+D163,Client,check balance please.,0,0,0.0,0
+D163,Client,statement please please.,0,0,0.33,0
+D163,Agent,Security check required.,0,0,0.0,0
+D164,Agent,Security check required.,0,0,0.0,0
+D164,Agent,Account confirmed.,0,0,0.0,0
+D164,Client,update address please.,0,0,0.0,0
+D164,Client,check balance please.,0,0,0.0,0
+D164,Client,recent transactions please.,0,0,0.0,0
+D164,Agent,Security check required.,0,0,0.0,0
+D164,Client,change phone number please.,0,0,0.0,0
+D164,Client,recent transactions please.,0,0,0.0,0
+D165,Client,recent transactions please.,0,0,0.0,0
+D165,Agent,Account confirmed.,0,0,0.0,0
+D165,Client,statement please please.,0,0,0.33,0
+D165,Agent,Can you confirm the amount?,0,0,0.0,0
+D165,Client,check balance please.,0,0,0.0,0
+D165,Client,check balance please.,0,0,0.0,0
+D165,Client,check balance please.,0,0,0.0,0
+D166,Agent,Processing request.,0,0,0.0,0
+D166,Client,recent transactions please.,0,0,0.0,0
+D166,Client,statement please please.,0,0,0.33,0
+D166,Agent,Account confirmed.,0,0,0.0,0
+D166,Client,check balance please.,0,0,0.0,0
+D166,Client,statement please please.,0,0,0.33,0
+D166,Agent,Can you confirm the amount?,0,0,0.0,0
+D166,Client,recent transactions please.,0,0,0.0,0
+D166,Client,change phone number please.,0,0,0.0,0
+D166,Agent,Processing request.,0,0,0.0,0
+D166,Agent,Verify details?,0,0,0.0,0
+D166,Client,statement please please.,0,0,0.33,0
+D167,Agent,Security check required.,0,0,0.0,0
+D167,Agent,Processing request.,0,0,0.0,0
+D167,Agent,Verify details?,0,0,0.0,0
+D167,Agent,Security check required.,0,0,0.0,0
+D167,Client,recent transactions please.,0,0,0.0,0
+D167,Client,change phone number please.,0,0,0.0,0
+D167,Client,statement please please.,0,0,0.33,0
+D167,Client,statement please please.,0,0,0.33,0
+D167,Agent,Processing request.,0,0,0.0,0
+D168,Client,check balance please.,0,0,0.0,0
+D168,Agent,Can you confirm the amount?,0,0,0.0,0
+D168,Client,change phone number please.,0,0,0.0,0
+D168,Client,recent transactions please.,0,0,0.0,0
+D168,Agent,Which account number?,0,0,0.0,0
+D168,Client,update address please.,0,0,0.0,0
+D168,Agent,Which account number?,0,0,0.0,0
+D168,Agent,Security check required.,0,0,0.0,0
+D168,Agent,Which account number?,0,0,0.0,0
+D168,Agent,Which account number?,0,0,0.0,0
+D168,Client,change phone number please.,0,0,0.0,0
+D168,Client,check balance please.,0,0,0.0,0
+D169,Agent,Security check required.,0,0,0.0,0
+D169,Agent,Can you confirm the amount?,0,0,0.0,0
+D169,Agent,Which account number?,0,0,0.0,0
+D169,Client,check balance please.,0,0,0.0,0
+D169,Client,update address please.,0,0,0.0,0
+D169,Client,statement please please.,0,0,0.33,0
+D170,Agent,Verify details?,0,0,0.0,0
+D170,Client,recent transactions please.,0,0,0.0,0
+D170,Agent,Processing request.,0,0,0.0,0
+D170,Agent,Verify details?,0,0,0.0,0
+D170,Agent,Verify details?,0,0,0.0,0
+D170,Client,change phone number please.,0,0,0.0,0
+D170,Client,change phone number please.,0,0,0.0,0
+D170,Client,update address please.,0,0,0.0,0
+D170,Agent,Account confirmed.,0,0,0.0,0
+D170,Client,update address please.,0,0,0.0,0
+D170,Client,statement please please.,0,0,0.33,0
+D170,Agent,Verify details?,0,0,0.0,0
+D171,Client,recent transactions please.,0,0,0.0,0
+D171,Client,statement please please.,0,0,0.33,0
+D171,Agent,Verify details?,0,0,0.0,0
+D171,Agent,Security check required.,0,0,0.0,0
+D171,Agent,Security check required.,0,0,0.0,0
+D171,Client,change phone number please.,0,0,0.0,0
+D171,Agent,Verify details?,0,0,0.0,0
+D171,Client,statement please please.,0,0,0.33,0
+D171,Agent,Account confirmed.,0,0,0.0,0
+D171,Agent,Security check required.,0,0,0.0,0
+D171,Agent,Security check required.,0,0,0.0,0
+D172,Agent,Processing request.,0,0,0.0,0
+D172,Agent,Processing request.,0,0,0.0,0
+D172,Agent,Verify details?,0,0,0.0,0
+D172,Agent,Verify details?,0,0,0.0,0
+D172,Agent,Can you confirm the amount?,0,0,0.0,0
+D172,Client,update address please.,0,0,0.0,0
+D173,Agent,Account confirmed.,0,0,0.0,0
+D173,Agent,Account confirmed.,0,0,0.0,0
+D173,Client,recent transactions please.,0,0,0.0,0
+D173,Agent,Which account number?,0,0,0.0,0
+D173,Client,change phone number please.,0,0,0.0,0
+D173,Agent,Account confirmed.,0,0,0.0,0
+D173,Agent,Verify details?,0,0,0.0,0
+D174,Client,check balance please.,0,0,0.0,0
+D174,Agent,Which account number?,0,0,0.0,0
+D174,Client,change phone number please.,0,0,0.0,0
+D174,Client,change phone number please.,0,0,0.0,0
+D174,Client,statement please please.,0,0,0.33,0
+D174,Client,recent transactions please.,0,0,0.0,0
+D175,Agent,Account confirmed.,0,0,0.0,0
+D175,Client,recent transactions please.,0,0,0.0,0
+D175,Agent,Which account number?,0,0,0.0,0
+D175,Agent,Verify details?,0,0,0.0,0
+D175,Agent,Which account number?,0,0,0.0,0
+D175,Agent,Processing request.,0,0,0.0,0
+D175,Client,change phone number please.,0,0,0.0,0
+D175,Client,recent transactions please.,0,0,0.0,0
+D175,Client,update address please.,0,0,0.0,0
+D175,Client,statement please please.,0,0,0.33,0
+D175,Agent,Verify details?,0,0,0.0,0
+D175,Agent,Processing request.,0,0,0.0,0
+D176,Agent,Security check required.,0,0,0.0,0
+D176,Agent,Verify details?,0,0,0.0,0
+D176,Client,update address please.,0,0,0.0,0
+D176,Agent,Which account number?,0,0,0.0,0
+D176,Client,change phone number please.,0,0,0.0,0
+D176,Agent,Account confirmed.,0,0,0.0,0
+D176,Agent,Can you confirm the amount?,0,0,0.0,0
+D176,Agent,Verify details?,0,0,0.0,0
+D176,Agent,Account confirmed.,0,0,0.0,0
+D176,Client,recent transactions please.,0,0,0.0,0
+D176,Agent,Verify details?,0,0,0.0,0
+D176,Agent,Verify details?,0,0,0.0,0
+D177,Client,recent transactions please.,0,0,0.0,0
+D177,Agent,Processing request.,0,0,0.0,0
+D177,Agent,Account confirmed.,0,0,0.0,0
+D177,Agent,Can you confirm the amount?,0,0,0.0,0
+D177,Agent,Account confirmed.,0,0,0.0,0
+D177,Agent,Which account number?,0,0,0.0,0
+D178,Client,check balance please.,0,0,0.0,0
+D178,Client,recent transactions please.,0,0,0.0,0
+D178,Client,statement please please.,0,0,0.33,0
+D178,Agent,Can you confirm the amount?,0,0,0.0,0
+D178,Client,statement please please.,0,0,0.33,0
+D178,Client,change phone number please.,0,0,0.0,0
+D179,Agent,Which account number?,0,0,0.0,0
+D179,Client,statement please please.,0,0,0.33,0
+D179,Agent,Account confirmed.,0,0,0.0,0
+D179,Agent,Security check required.,0,0,0.0,0
+D179,Client,recent transactions please.,0,0,0.0,0
+D179,Client,change phone number please.,0,0,0.0,0
+D180,Client,recent transactions please.,0,0,0.0,0
+D180,Client,statement please please.,0,0,0.33,0
+D180,Agent,Processing request.,0,0,0.0,0
+D180,Agent,Can you confirm the amount?,0,0,0.0,0
+D180,Client,statement please please.,0,0,0.33,0
+D180,Agent,Processing request.,0,0,0.0,0
+D180,Agent,Processing request.,0,0,0.0,0
+D180,Agent,Verify details?,0,0,0.0,0
+D180,Client,change phone number please.,0,0,0.0,0
+D181,Agent,Processing request.,0,0,0.0,1
+D181,Client,urgent transfer possibly $8728 to supplier.,1,1,-0.17,1
+D181,Agent,Account confirmed.,0,0,0.0,1
+D181,Client,need to move money quickly $20198 to new account.,0,1,0.0,1
+D181,Client,urgent transfer maybe $18628 to new account.,1,1,-0.14,1
+D181,Agent,Processing request.,0,0,0.0,1
+D181,Agent,Account confirmed.,0,0,0.0,1
+D181,Agent,Account confirmed.,0,0,0.0,1
+D181,Agent,Can you confirm the amount?,0,0,0.0,1
+D181,Agent,Security check required.,0,0,0.0,1
+D181,Client,send now to this account I think $6874 to supplier.,0,1,0.0,1
+D182,Client,statement please please.,0,0,0.33,0
+D182,Agent,Processing request.,0,0,0.0,0
+D182,Agent,Which account number?,0,0,0.0,0
+D182,Agent,Processing request.,0,0,0.0,0
+D182,Agent,Security check required.,0,0,0.0,0
+D182,Client,update address please.,0,0,0.0,0
+D182,Agent,Processing request.,0,0,0.0,0
+D182,Client,check balance please.,0,0,0.0,0
+D182,Agent,Which account number?,0,0,0.0,0
+D182,Agent,Verify details?,0,0,0.0,0
+D183,Agent,Processing request.,0,0,0.0,0
+D183,Agent,Account confirmed.,0,0,0.0,0
+D183,Client,statement please please.,0,0,0.33,0
+D183,Client,update address please.,0,0,0.0,0
+D183,Agent,Processing request.,0,0,0.0,0
+D183,Client,check balance please.,0,0,0.0,0
+D183,Client,recent transactions please.,0,0,0.0,0
+D183,Agent,Verify details?,0,0,0.0,0
+D183,Client,statement please please.,0,0,0.33,0
+D183,Client,change phone number please.,0,0,0.0,0
+D183,Agent,Security check required.,0,0,0.0,0
+D183,Client,check balance please.,0,0,0.0,0
+D184,Agent,Security check required.,0,0,0.0,0
+D184,Agent,Verify details?,0,0,0.0,0
+D184,Agent,Processing request.,0,0,0.0,0
+D184,Agent,Processing request.,0,0,0.0,0
+D184,Client,change phone number please.,0,0,0.0,0
+D184,Agent,Verify details?,0,0,0.0,0
+D185,Agent,Which account number?,0,0,0.0,0
+D185,Client,check balance please.,0,0,0.0,0
+D185,Agent,Security check required.,0,0,0.0,0
+D185,Agent,Can you confirm the amount?,0,0,0.0,0
+D185,Agent,Which account number?,0,0,0.0,0
+D185,Agent,Account confirmed.,0,0,0.0,0
+D185,Client,statement please please.,0,0,0.33,0
+D185,Agent,Verify details?,0,0,0.0,0
+D186,Client,update address please.,0,0,0.0,0
+D186,Agent,Processing request.,0,0,0.0,0
+D186,Client,check balance please.,0,0,0.0,0
+D186,Agent,Processing request.,0,0,0.0,0
+D186,Agent,Account confirmed.,0,0,0.0,0
+D186,Client,recent transactions please.,0,0,0.0,0
+D186,Agent,Processing request.,0,0,0.0,0
+D187,Agent,Which account number?,0,0,0.0,0
+D187,Client,statement please please.,0,0,0.33,0
+D187,Agent,Security check required.,0,0,0.0,0
+D187,Client,statement please please.,0,0,0.33,0
+D187,Agent,Processing request.,0,0,0.0,0
+D187,Client,change phone number please.,0,0,0.0,0
+D187,Client,change phone number please.,0,0,0.0,0
+D187,Client,change phone number please.,0,0,0.0,0
+D187,Client,change phone number please.,0,0,0.0,0
+D187,Agent,Processing request.,0,0,0.0,0
+D187,Client,check balance please.,0,0,0.0,0
+D188,Agent,Security check required.,0,0,0.0,0
+D188,Client,statement please please.,0,0,0.33,0
+D188,Agent,Processing request.,0,0,0.0,0
+D188,Agent,Which account number?,0,0,0.0,0
+D188,Agent,Processing request.,0,0,0.0,0
+D188,Agent,Security check required.,0,0,0.0,0
+D188,Agent,Verify details?,0,0,0.0,0
+D188,Client,change phone number please.,0,0,0.0,0
+D189,Client,recent transactions please.,0,0,0.0,0
+D189,Agent,Can you confirm the amount?,0,0,0.0,0
+D189,Agent,Account confirmed.,0,0,0.0,0
+D189,Client,update address please.,0,0,0.0,0
+D189,Agent,Account confirmed.,0,0,0.0,0
+D189,Client,check balance please.,0,0,0.0,0
+D189,Client,check balance please.,0,0,0.0,0
+D189,Client,recent transactions please.,0,0,0.0,0
+D189,Agent,Verify details?,0,0,0.0,0
+D189,Agent,Processing request.,0,0,0.0,0
+D189,Agent,Security check required.,0,0,0.0,0
+D190,Agent,Processing request.,0,0,0.0,1
+D190,Client,urgent transfer possibly $11843 to friend.,1,1,-0.17,1
+D190,Client,maybe tomorrow if not I think $7523 to friend.,1,0,0.0,1
+D190,Agent,Which account number?,0,0,0.0,1
+D190,Agent,Which account number?,0,0,0.0,1
+D190,Agent,Which account number?,0,0,0.0,1
+D190,Client,it's an emergency maybe $19862 to vendor.,1,0,-0.14,1
+D191,Agent,Security check required.,0,0,0.0,0
+D191,Client,update address please.,0,0,0.0,0
+D191,Client,change phone number please.,0,0,0.0,0
+D191,Client,change phone number please.,0,0,0.0,0
+D191,Agent,Processing request.,0,0,0.0,0
+D191,Agent,Can you confirm the amount?,0,0,0.0,0
+D191,Agent,Account confirmed.,0,0,0.0,0
+D191,Client,update address please.,0,0,0.0,0
+D191,Client,update address please.,0,0,0.0,0
+D191,Client,recent transactions please.,0,0,0.0,0
+D191,Agent,Verify details?,0,0,0.0,0
+D191,Agent,Processing request.,0,0,0.0,0
+D192,Client,statement please please.,0,0,0.33,0
+D192,Client,check balance please.,0,0,0.0,0
+D192,Agent,Account confirmed.,0,0,0.0,0
+D192,Client,change phone number please.,0,0,0.0,0
+D192,Client,recent transactions please.,0,0,0.0,0
+D192,Agent,Processing request.,0,0,0.0,0
+D192,Agent,Can you confirm the amount?,0,0,0.0,0
+D193,Agent,Can you confirm the amount?,0,0,0.0,0
+D193,Client,statement please please.,0,0,0.33,0
+D193,Client,check balance please.,0,0,0.0,0
+D193,Client,check balance please.,0,0,0.0,0
+D193,Agent,Account confirmed.,0,0,0.0,0
+D193,Agent,Processing request.,0,0,0.0,0
+D193,Client,update address please.,0,0,0.0,0
+D194,Client,check balance please.,0,0,0.0,0
+D194,Client,recent transactions please.,0,0,0.0,0
+D194,Client,check balance please.,0,0,0.0,0
+D194,Agent,Account confirmed.,0,0,0.0,0
+D194,Client,check balance please.,0,0,0.0,0
+D194,Agent,Can you confirm the amount?,0,0,0.0,0
+D194,Agent,Account confirmed.,0,0,0.0,0
+D194,Client,recent transactions please.,0,0,0.0,0
+D194,Agent,Security check required.,0,0,0.0,0
+D194,Client,update address please.,0,0,0.0,0
+D194,Agent,Processing request.,0,0,0.0,0
+D194,Agent,Processing request.,0,0,0.0,0
+D195,Agent,Security check required.,0,0,0.0,0
+D195,Client,recent transactions please.,0,0,0.0,0
+D195,Agent,Verify details?,0,0,0.0,0
+D195,Client,recent transactions please.,0,0,0.0,0
+D195,Client,update address please.,0,0,0.0,0
+D195,Client,update address please.,0,0,0.0,0
+D196,Client,check balance please.,0,0,0.0,0
+D196,Client,change phone number please.,0,0,0.0,0
+D196,Client,update address please.,0,0,0.0,0
+D196,Agent,Which account number?,0,0,0.0,0
+D196,Client,statement please please.,0,0,0.33,0
+D196,Client,check balance please.,0,0,0.0,0
+D196,Client,statement please please.,0,0,0.33,0
+D196,Agent,Security check required.,0,0,0.0,0
+D196,Client,change phone number please.,0,0,0.0,0
+D197,Client,it's an emergency sort of $16467 to friend.,1,0,-0.12,1
+D197,Client,urgent transfer possibly $15335 to vendor.,1,1,-0.17,1
+D197,Client,urgent transfer possibly $14505 to supplier.,1,1,-0.17,1
+D197,Client,it's an emergency $22570 to vendor.,0,0,-0.17,1
+D197,Agent,Security check required.,0,0,0.0,1
+D197,Client,it's an emergency kind of $19276 to supplier.,1,0,-0.12,1
+D197,Agent,Security check required.,0,0,0.0,1
+D197,Client,maybe tomorrow if not $21566 to new account.,1,0,0.0,1
+D197,Agent,Account confirmed.,0,0,0.0,1
+D197,Agent,Security check required.,0,0,0.0,1
+D197,Client,urgent transfer sort of $5606 to friend.,1,1,-0.14,1
+D197,Client,urgent transfer maybe $19567 to vendor.,1,1,-0.17,1
+D198,Agent,Processing request.,0,0,0.0,0
+D198,Agent,Account confirmed.,0,0,0.0,0
+D198,Client,update address please.,0,0,0.0,0
+D198,Agent,Can you confirm the amount?,0,0,0.0,0
+D198,Client,change phone number please.,0,0,0.0,0
+D198,Client,statement please please.,0,0,0.33,0
+D198,Client,recent transactions please.,0,0,0.0,0
+D199,Client,recent transactions please.,0,0,0.0,0
+D199,Agent,Which account number?,0,0,0.0,0
+D199,Agent,Security check required.,0,0,0.0,0
+D199,Client,change phone number please.,0,0,0.0,0
+D199,Client,change phone number please.,0,0,0.0,0
+D199,Client,change phone number please.,0,0,0.0,0
+D199,Client,check balance please.,0,0,0.0,0
+D199,Client,recent transactions please.,0,0,0.0,0
+D199,Agent,Can you confirm the amount?,0,0,0.0,0
+D199,Client,update address please.,0,0,0.0,0
+D199,Client,change phone number please.,0,0,0.0,0
+D200,Client,check balance please.,0,0,0.0,0
+D200,Agent,Account confirmed.,0,0,0.0,0
+D200,Client,check balance please.,0,0,0.0,0
+D200,Agent,Processing request.,0,0,0.0,0
+D200,Client,change phone number please.,0,0,0.0,0
+D200,Client,check balance please.,0,0,0.0,0
+D200,Agent,Account confirmed.,0,0,0.0,0
