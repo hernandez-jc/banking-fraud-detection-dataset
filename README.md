@@ -15,6 +15,7 @@
 | `Label` | `0=Legit`, `1=Fraud` | **Dialogue-level** labeling | **Target** |
 
 ## 📊 **Production Dataset Statistics**
+
 💾 Total turns: 1,815 across 200 dialogues (D001-D200)
 🔴 Fraud prevalence: 6.3% (industry realistic)
 ⚖️ Class imbalance: 93.7% legit / 6.3% fraud
@@ -22,6 +23,7 @@
 ✅ Dialogue consistency: Entire D024 = Fraud/Entire D025 = Legit
 
 ## 🚀 **Instant ML Training Pipeline**
+
 ```python
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -40,6 +42,7 @@ model = RandomForestClassifier().fit(X_train, y_train)
 print(f"Production accuracy: {model.score(X_test, y_test):.2%}")
 
 💼 Skills Demonstrated (AI Trainer + Computational Economist)
+
 Computational Linguistics
 Psycholinguistic feature extraction (hedge/urgency detection)
 
@@ -64,12 +67,14 @@ Feature importance optimization
 Imbalanced classification pipeline
 
 🎯 Expected Model Performance
+
 Random Forest (Features only): 92% accuracy
 XGBoost + Text: 94% F1-score  
 BERT Fine-tuning: 95%+ F1 (SOTA)
 Low false positives critical for banking
 
 🔮 Production Use Case
+
 Real-time fraud detection pipeline:
 1. Speech-to-Text → Dialogue chunks
 2. Hedge/Urgency/Sentiment extraction  
@@ -77,6 +82,7 @@ Real-time fraud detection pipeline:
 4. Decision: Block + Alert (score > 0.8)
 
 📈 Business Impact
+
 ✅ Catches 15x more fraud vs rule-based systems
 ✅ 95% precision minimizes false positives  
 ✅ Reduces manual agent review by 40%
