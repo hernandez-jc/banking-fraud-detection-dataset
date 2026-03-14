@@ -47,36 +47,8 @@ model = RandomForestClassifier().fit(X_train, y_train)
 print(f"Production accuracy: {model.score(X_test, y_test):.2%}")
 ```
 
-💼 Skills Demonstrated (AI Trainer + Computational Economist)
 
-Computational Linguistics
-
-Psycholinguistic feature extraction (hedge/urgency detection)
-
-Lexicon-based sentiment analysis
-
-Natural language deception markers
-
-Computational Economics
-
-Realistic fraud prevalence modeling (6.3% banking standard)
-
-Behavioral economics of scams (urgency + cognitive load)
-
-Synthetic data generation for scarce fraud scenarios
-
-Machine Learning Engineering
-
-Production-ready CSV format
-
-Dialogue-level labeling (enterprise standard)
-
-Feature importance optimization
-
-Imbalanced classification pipeline
-
-
-🎯 Expected Model Performance
+## **🎯 Expected Model Performance**
 
 Random Forest (Features only): 92% accuracy
 
@@ -86,8 +58,34 @@ BERT Fine-tuning: 95%+ F1 (SOTA)
 
 Low false positives critical for banking
 
+## **💼 Skills Demonstrated**
+AI Trainer + Computational Economist
 
-🔮 Production Use Case
+🔬 Computational Linguistics
+🧠 Psycholinguistic feature extraction (hedge/urgency detection)
+
+📊 Lexicon-based sentiment analysis
+
+🚨 Natural language deception markers
+
+💰 Computational Economics
+📈 Realistic fraud prevalence modeling (6.3% banking standard)
+
+🧩 Behavioral economics of scams (urgency + cognitive load)
+
+🔄 Synthetic data generation for scarce fraud scenarios
+
+🤖 Machine Learning Engineering
+⚙️ Production-ready CSV format
+
+🏷️ Dialogue-level labeling (enterprise standard)
+
+📊 Feature importance optimization
+
+⚖️ Imbalanced classification pipeline
+
+
+## **🔮 Production Use Case**
 
 Real-time fraud detection pipeline:
 
@@ -100,7 +98,7 @@ Real-time fraud detection pipeline:
 4. Decision: Block + Alert (score > 0.8)
 
 
-📈 Business Impact
+## **📈 Business Impact**
 
 ✅ Catches 15x more fraud vs rule-based systems
 
