@@ -23,7 +23,6 @@
 ✅ Dialogue consistency: Entire D024 = Fraud/Entire D025 = Legit
 
 ## 🚀 **Instant ML Training Pipeline**
-
 ```python
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -40,6 +39,11 @@ y = df['Label']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 model = RandomForestClassifier().fit(X_train, y_train)
 print(f"Production accuracy: {model.score(X_test, y_test):.2%}")
+
+
+
+
+
 
 💼 Skills Demonstrated (AI Trainer + Computational Economist)
 
